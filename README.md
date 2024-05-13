@@ -39,7 +39,7 @@
 <a href="" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> -->
 
 <details> 
- <summary><H3>🚀 Tech Stack</H3></summary><br>
+ <summary><H3>🚀 Tech Stack</H3> <h6>(Click to expand)</h6></summary><br>
 
 #### ⚡ Languages
 
