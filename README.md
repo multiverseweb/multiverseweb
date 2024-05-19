@@ -103,12 +103,12 @@
     <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=github_dark" alt="Top Languages" />
     <!-- Repositories per language -->
     <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=multiverseweb&theme=github_dark" alt="Most Commit Languages" />
-    <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=multiverseweb&theme=github_dark" alt="Histogram of Commits" />
     <!-- Graph of Commits -->
     <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=github_dark" alt="Graph of Commits" />
     <!-- Streak-->
-<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true"><br/></br>
+<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=github_dark&hide_border=true">
+    
+<img align="center" height="155em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
   </div>
 
 ### 🔰 Top Repositories
