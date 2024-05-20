@@ -113,7 +113,7 @@
 
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=react&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4">
+![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=react&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4)
 
 
 ### 🌐 Let's connect!
