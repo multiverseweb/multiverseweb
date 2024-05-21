@@ -12,7 +12,6 @@
 <!--<img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
 -->
 
-<hr/>
 
 ### 💫 About Me
 
@@ -95,8 +94,9 @@
 <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=react" alt="Graph of Commits" />
 <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
     
-    
-  </div>
+</div>
+
+---
 
 ### 🔰 Top Repositories
    <p align="center">
@@ -111,6 +111,7 @@
     </a>
   </p>     
 
+---
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=multiverseweb&theme=react&no-frame=true&layout=compact&hide_border=true&no-bg=true&margin-w=4)
