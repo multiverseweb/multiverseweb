@@ -9,8 +9,8 @@
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Tejas Gupta.</h2>
   <img src="https://readme-typing-svg.demolab.com/?lines=A Tech%20enthusiast%20from%20India.;With 4+%2B%20years%20of%20coding%20experience.&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
 
-<img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
-
+<!--<img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
+-->
 
 <hr/>
 
