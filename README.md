@@ -67,7 +67,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-0e1726?style=for-the-badge&logo=jupyter&logoColor=#f2770e)
 <a href="https://replit.com/@Tejas7Gupta">![Replit](https://img.shields.io/badge/Replit-0e1726?style=for-the-badge&logo=Replit&logoColor=f7640b)</a>
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
+![Colab](https://img.shields.io/badge/Colab-2c2e35?style=for-the-badge&logo=googlecolab&color=525252) 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
 ![Figma](https://img.shields.io/badge/Figma-2c2e35?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
