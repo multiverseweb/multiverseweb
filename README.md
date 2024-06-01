@@ -27,9 +27,12 @@
 
 <div align="center">
   
-<a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge) </a>
-<a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
-<a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a><a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Socials-black?style=for-the-badge) </a>
+<a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-gold?style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-grey?style=for-the-badge)</a>
+<a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Socials-teal?style=for-the-badge) </a>
 </div>
 <hr/>
 
@@ -128,9 +131,6 @@
 
 <!--
 ### 🌐 Let's connect!
-
-<a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href="https://codepen.io/Tejas-Gupta-7" target="blank">![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
