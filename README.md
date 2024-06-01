@@ -16,15 +16,21 @@
 ### 💫 About Me
 
 - 🎓 Pursuing my `Bachelor's` in `Computer Science and Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`, Pune, India.
+
 - 🌱 I’m currently learning **Python for Data Analysis**.
-- 💬 Ask me about **Web Development, Python, UI/UX Designing**.
+
+- 👨‍💻 Ask me about **Web Development, Python, UI/UX Designing**.
+
 - 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
-- 👨‍💻Portfolio/Personal Website -> [`Tejas Gupta`](https://tejasgupta.netlify.app/).
-- 📫 How to reach me -> [`Tejas Gupta`](https://tejas-links.netlify.app/).
 
+- 📫 Find out more about me & feel free to connect with me here:
 
+<div align="center">
+  
+<a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge) </a>
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) </a>
-<a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a>
+<a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-black?style=for-the-badge)</a><a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Socials-black?style=for-the-badge) </a>
+</div>
 <hr/>
 
 <details> 
