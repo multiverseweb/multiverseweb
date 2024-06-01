@@ -23,7 +23,7 @@
 
 - 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
 
-- 📫 Find out more about me & feel free to connect with me here:
+- 📫 See what else I do & feel free to connect with me here:
 
 <div align="center">
   
