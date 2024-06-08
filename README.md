@@ -32,7 +32,7 @@
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-grey?style=for-the-badge)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Socials-teal?style=for-the-badge) </a>
+<a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Links-teal?style=for-the-badge) </a>
 </div>
 <hr/>
 
