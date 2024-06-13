@@ -119,8 +119,8 @@
     <!-- House -->
     <a href="https://github.com/multiverseweb/house"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="House">
     </a>
-    <!-- Portfolio -->
-    <a href="https://github.com/multiverseweb/tejas"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=tejas&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Portfolio">
+    <!-- leetcode -->
+    <a href="https://github.com/multiverseweb/Leetcode-Solutions"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Leetcode-Solutions&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Portfolio">
     </a>
   </p>     
 
