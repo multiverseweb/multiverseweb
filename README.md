@@ -1,3 +1,20 @@
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/markdown.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/github-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
+<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
+
 ![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 
 ![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)
