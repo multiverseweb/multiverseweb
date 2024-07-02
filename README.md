@@ -1,11 +1,18 @@
+
 ![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 
 ![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)
 
+<!--(https://visitcount.itsvg.in) 
 
+![](https://img.shields.io/badge/</>&nbsp;LOC-27.8k-teal)-->
 <div style="font-family:verdana;">
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Tejas Gupta.</h2>
   <img src="https://readme-typing-svg.demolab.com/?lines=A Tech%20enthusiast%20from%20India.;With 4+%2B%20years%20of%20coding%20experience.&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" />
+
+<!--<img align="right" alt="blackHole" width="400" src="https://openseauserdata.com/files/8fc69ab9abf6f219d97d68e22ffb97d0.gif">
+-->
+
 
 ### 💫 About Me
 
@@ -33,31 +40,54 @@
 
 <details> 
  <summary><H3>🚀 Tech Stack</H3><sub>(Click to expand)</sub></summary><br>
-  
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/markdown.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/github-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/figma.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-lightroom.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/notion-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/mysql-icon.svg">
-<img align="left" alt="html" height="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-windows-icon.svg">
-<br><br><br>
+
+#### ⚡ Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### ✳️ Libraries
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=python&logoColor=white) 
+<!--![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
+
+#### 🧩 Tools & Platforms
+
+<a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-0e1726?style=for-the-badge&logo=jupyter&logoColor=#f2770e)
+<a href="https://replit.com/@Tejas7Gupta">![Replit](https://img.shields.io/badge/Replit-0e1726?style=for-the-badge&logo=Replit&logoColor=f7640b)</a>
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Colab](https://img.shields.io/badge/Colab-2c2e35?style=for-the-badge&logo=googlecolab&color=525252) 
+![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
+![Figma](https://img.shields.io/badge/Figma-2c2e35?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+#### 📒 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+
+#### 🖥 OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <img align="right" alt="Coding" height="40px" width="50px" src="https://www.giantbomb.com/a/uploads/scale_medium/3/34651/3407473-90scomputer.gif">
 <br/>
 </details>
@@ -125,44 +155,4 @@ Tejas°
 `
 
 </div>
-
-<!--
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=python&logoColor=white)
-
-<a href="https://github.com/multiverseweb" target="blank"> ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-0e1726?style=for-the-badge&logo=jupyter&logoColor=#f2770e)
-<a href="https://replit.com/@Tejas7Gupta">![Replit](https://img.shields.io/badge/Replit-0e1726?style=for-the-badge&logo=Replit&logoColor=f7640b)</a>
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Colab](https://img.shields.io/badge/Colab-2c2e35?style=for-the-badge&logo=googlecolab&color=525252) 
-![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge) 
-![Figma](https://img.shields.io/badge/Figma-2c2e35?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
--->
 
