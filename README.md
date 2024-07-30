@@ -42,7 +42,6 @@
  <summary>(Click to expand)</summary>
 
 #### ⚡ Languages
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -124,6 +123,13 @@
 
 
 <!--
+
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,md,bash,mysql" />
+
+<img src="https://skillicons.dev/icons?i=github,linkedin,git,vercel,netlify,postman,pug,replit,sklearn,tensorflow,vscode,figma,blender,ps,notion,vscode,windows" />
+
+
 ### 🌐 Let's connect!
 <a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/iamtejasgupta26">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
