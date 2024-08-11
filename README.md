@@ -108,7 +108,6 @@
 <img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=react&hide_border=true">
 <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=react" alt="Graph of Commits" />
 <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
-    
 </div>
 
 
