@@ -37,11 +37,6 @@
 <a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-grey?style=for-the-badge)</a>-->
 </div>
 
-## GSSoC'24 Badges 🪶
-|______________|______________|______________|______________|______________|______________|
-|-|-|-|-|-|-|
-|![](https://github.com/multiverseweb/Badges/blob/main/Badges/Postman%20White.png?raw=true)|![](https://github.com/multiverseweb/Badges/blob/main/Badges/5.png?raw=true)|![](https://github.com/multiverseweb/Badges/blob/main/Badges/4.png?raw=true)|![](https://github.com/multiverseweb/Badges/blob/main/Badges/3.png?raw=true)|![](https://github.com/multiverseweb/Badges/blob/main/Badges/2.png?raw=true)|![](https://github.com/multiverseweb/Badges/blob/main/Badges/1.png?raw=true)|
-
 ## 🚀 Tech Stack
 <details> 
  <summary>(Click to expand)</summary>
