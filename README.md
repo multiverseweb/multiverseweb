@@ -115,14 +115,14 @@
 
 ## 🔰 Top Repositories
    <p align="center">
+    <!-- CodeIt -->
+    <a href="https://github.com/multiverseweb/CodeIt"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=CodeIt&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Coedit">
+    </a>
     <!-- Dataverse -->
     <a href="https://github.com/multiverseweb/Dataverse"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Dataverse">
     </a>
     <!-- House -->
     <a href="https://github.com/multiverseweb/house"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="House">
-    </a>
-    <!-- CodeIt -->
-    <a href="https://github.com/multiverseweb/CodeIt"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=CodeIt&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Coedit">
     </a>
   </p>     
 
