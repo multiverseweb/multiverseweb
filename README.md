@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing my `Bachelor's` in `Computer Science & Business Systems` from `Bharati Vidyapeeth (DU) College of Engineering`, Pune, India.
+- 🎓 Pursuing my `Bachelor's` in `Computer Science`.
 
 - 🌱 I’m currently exploring **Machine Learning**.
 
