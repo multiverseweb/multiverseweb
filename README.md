@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing my `Bachelor's` in `Computer Science`.
+- 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.
 
 - 🌱 I’m currently exploring **Machine Learning**.
 
