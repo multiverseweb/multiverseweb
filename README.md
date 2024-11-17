@@ -16,13 +16,9 @@
 ## 💫 About Me
 
 - 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.
-
 - 🌱 I’m currently exploring **Machine Learning**.
-
-- 👨‍💻 Ask me about **Web Development, Python, UI/UX Designing**.
-
+- 👨‍💻 Ask me about **Web Development, Python Application Development, UI/UX Designing**.
 - 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
-
 - 📫 See what else I do & feel free to connect with me here:
 
 <div align="center">
@@ -102,52 +98,15 @@
 <h2>:octocat: GitHub Analytics</h2>
 
   <div align="center">
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=react" alt="GitHub Stats" />  
-    <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=react" alt="Top Languages" />
-    <!-- Graph of Commits -->
-<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=react&hide_border=true">
-<img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=react" alt="Graph of Commits" />
-<img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
-</div>
-
-
-## 🔰 Top Repositories
-   <p align="center">
-    <!-- CodeIt -->
-    <a href="https://github.com/multiverseweb/CodeIt"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=CodeIt&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Coedit">
-    </a>
-    <!-- Dataverse -->
-    <a href="https://github.com/multiverseweb/Dataverse"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=Dataverse&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Dataverse">
-    </a>
-    <!-- House -->
-    <a href="https://github.com/multiverseweb/house"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=multiverseweb&repo=house&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="House">
-    </a>
-  </p>     
-
-
-<!--
-
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,md,bash,mysql" />
-
-<img src="https://skillicons.dev/icons?i=github,linkedin,git,vercel,netlify,postman,pug,replit,sklearn,tensorflow,vscode,figma,blender,ps,notion,vscode,windows" />
-
-
-### 🌐 Let's connect!
-<a href="mailto:iamtejasgupta26@gmail.com" target="blank">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://codepen.io/Tejas-Gupta-7" target="blank">![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
-<a href="https://www.threads.net/@tejasgupta._">![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)</a>
-<a href="https://twitter.com/code_with_tejas">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-<a href="" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="https://t.me/tejasgupta26" target="blank">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://pinterest.com/iamtejasgupta26" target="blank">![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)</a>  -->
-
-
-<img align="middle" alt="Coding" height="30px" width="100%" src="https://static.wixstatic.com/media/7cc7f0_5ae315a9df234f719ad859c1ae3c2b7d~mv2.gif"/>
+    
+| <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
+|:---:|:---:|:---:|
+    
+| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
+|:---:|:---:|
 
 </div>
+
 
 <div align="center" style= "display: block;">
 
@@ -156,6 +115,10 @@ Tejas°
 `
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
+</p>
 
 <!--
 
