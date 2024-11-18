@@ -53,36 +53,15 @@
 |:---:|:---:|
 
 </div>
-
-Show some ❤️ by starring some of the repositories ⭐ or buying me a coffee!
+<div align="center">
+Show some ❤️ by starring some of the repositories you like ⭐ or buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
-
+</div>
 <div align="center" style= "display: block;">
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
 </p>
-
-<!--
-
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/markdown.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/github-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/netlify-icon.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg">
-<img align="left" alt="html" height="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/replit-icon.svg">
-
--->
 
