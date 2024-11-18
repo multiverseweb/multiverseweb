@@ -102,7 +102,7 @@
 
 Show some ❤️ by starring some of the repositories ⭐ or buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px"></a>
+<a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
 
 <div align="center" style= "display: block;">
 
