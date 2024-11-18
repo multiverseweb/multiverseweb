@@ -27,9 +27,8 @@
 -->
 </div>
 
-## 🚀 Tech Stack
 <details> 
- <summary>(Click to expand)</summary>
+ <summary><H2> 🚀 Tech Stack&nbsp;</H2>(Click to expand)</summary>
 
 #### ⚡ Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
