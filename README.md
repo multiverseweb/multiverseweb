@@ -1,14 +1,21 @@
-![](https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0)
-<h1 align="center">Hey there, I'm <a href="">Tejas Gupta</a></h1>
+<div style="display:flex;"><h1>Hey there, I'm <a href="">Tejas Gupta</a></h1><img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right"></div>
 
-### 💫 About Me
+🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
+🌱 Software developer and an open-source enthusiast.<br>
+👨‍💻 Ask me about Web Development, Python Application Development, UI/UX Designing.<br>
+🪐 I'm a space enthusiast and an astrophotographer!<br>
+📫 See what else I do & feel free to connect with me here:<br>
 
-- 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.
-- 🌱 I’m currently exploring **Machine Learning**.
-- 👨‍💻 Ask me about **Web Development, Python Application Development, UI/UX Designing**.
-- 🪐 Fun fact: **I'm a space enthusiast and an astrophotographer!**
-- 📫 See what else I do & feel free to connect with me here:
 
+  <a href="https://tejasgupta.netlify.app/">Portfolio</a> -
+  <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> - 
+  <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> -
+  <a href="https://leetcode.com/tejas-gupta/">Leetcode</a> -
+  <a href="https://instagram.com/tejasgupta._">Instagram</a> -
+  <a href="https://tejas-links.netlify.app/">Linktree</a> 
+
+
+<!--
 <div align="center">
 
 <a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-ffbf00?style=for-the-badge)</a>
@@ -17,8 +24,7 @@
 <a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Links-teal?style=for-the-badge) </a>
-<!--
-<a href="https://code.dcoder.tech/profile/tejasgupta" target="blank">![Dcoder](https://img.shields.io/badge/%2F%3E%20Dcoder-grey?style=for-the-badge)</a>-->
+-->
 </div>
 
 ## 🚀 Tech Stack
@@ -94,14 +100,12 @@
 
 </div>
 
+Show some ❤️ by starring some of the repositories ⭐ or buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px"></a>
 
 <div align="center" style= "display: block;">
 
-`
-Tejas°
-`
-
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
