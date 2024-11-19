@@ -55,8 +55,9 @@
 </div>
 <div align="center">
 Show some ❤️ by starring some of the repositories you like ⭐ or buying me a coffee!
-
-<br><br>
+</div>
+<br/>
+<div align="center">
 <a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
 </div>
 <div align="center" style= "display: block;">
