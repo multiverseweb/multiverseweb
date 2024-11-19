@@ -46,10 +46,10 @@
 
   <div align="center">
     
-| <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
+| <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
 |:---:|:---:|:---:|
     
-| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
+| <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
 |:---:|:---:|
 
 </div>
