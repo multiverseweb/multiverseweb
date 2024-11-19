@@ -56,10 +56,10 @@
 <div align="center">
 Show some ❤️ by starring some of the repositories you like ⭐ or buying me a coffee!
 
+<br><br>
 <a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
 </div>
 <div align="center" style= "display: block;">
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
