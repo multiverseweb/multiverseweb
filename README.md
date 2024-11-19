@@ -54,7 +54,7 @@
 
 </div>
 <div align="center">
-Show some ❤️ by starring some of the repositories you like ⭐ or buying me a coffee!
+Show some ❤️ by starring some of the repositories you like ⭐ or by buying me a coffee!
 </div>
 <br/>
 <div align="center">
