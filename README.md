@@ -7,11 +7,11 @@
 📫 See what else I do & feel free to connect with me here:<br>
 
 
-  <a href="https://tejasgupta.netlify.app/">Portfolio</a> -
-  <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> - 
-  <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> -
-  <a href="https://leetcode.com/tejas-gupta/">Leetcode</a> -
-  <a href="https://instagram.com/tejasgupta._">Instagram</a> -
+  <a href="https://tejasgupta.netlify.app/">Portfolio</a> .
+  <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> . 
+  <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> .
+  <a href="https://leetcode.com/tejas-gupta/">Leetcode</a> .
+  <a href="https://instagram.com/tejasgupta._">Instagram</a> .
   <a href="https://tejas-links.netlify.app/">Linktree</a> 
 
 
