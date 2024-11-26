@@ -2,6 +2,7 @@
 
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
 🌐 Software developer and an open-source enthusiast.<br>
+🌱 I'm currently working on [Dataverse](https://multiverse-dataverse.netlify.app/).<br>
 👨‍💻 Ask me about Web Development, Python Application Development, UI/UX Designing.<br>
 🪐 I'm a space enthusiast and an astrophotographer!<br>
 📫 See what else I do & feel free to connect with me here:<br>
