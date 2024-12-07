@@ -40,8 +40,6 @@
 | 🖥 OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Microsoft&logoColor=white) |
 <br/>
 </details>
-
-
 <!-- GitHub Analytics -->
 ## :octocat: GitHub Analytics
 
