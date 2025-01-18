@@ -1,4 +1,4 @@
-<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Tejas Gupta</a></h1><img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right"></div>
+<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Tejas Gupta</a></h1><img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right"><img src="https://img.shields.io/github/stars/multiverseweb?label=Star%20Gazers&style=social" align="right"></div>
 
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
 🌐 Software developer and an open-source enthusiast.<br>
