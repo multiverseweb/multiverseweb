@@ -10,6 +10,7 @@
 <div align="center">
   <a href="https://tejasgupta.netlify.app/">Portfolio</a> .
   <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> . 
+  <a href="https://tejas-artworks.netlify.app">Artworks</a> . 
   <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> .
   <a href="https://leetcode.com/tejas-gupta/">Leetcode</a> .
   <a href="https://instagram.com/tejasgupta._">Instagram</a> .
@@ -28,8 +29,7 @@
 -->
 </div>
 
-<details> 
- <summary><H2> 🚀 Tech Stack&nbsp;</H2>(Click to expand)</summary>
+## 🚀 Tech Stack
 
 |||
 |-|-|
@@ -38,8 +38,8 @@
 | 🛠️ Tools & Platforms | ![GitHub](https://img.shields.io/badge/GitHub-7700ff?style=flat&logo=github&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=000000) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-0e1726?style=flat&logo=jupyter&logoColor=#f2770e) ![Replit](https://img.shields.io/badge/Replit-0e1726?style=flat&logo=Replit&logoColor=f7640b) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)  ![Colab](https://img.shields.io/badge/Colab-2c2e35?style=flat&logo=googlecolab&color=525252)  ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=flat)  ![Figma](https://img.shields.io/badge/Figma-2c2e35?style=flat&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=black)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) |
 | 📒 Database | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)|
 | 🖥 OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Microsoft&logoColor=white) |
-<br/>
-</details>
+
+---
 
 <!-- GitHub Analytics -->
 ## :octocat: GitHub Analytics
