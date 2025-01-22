@@ -29,7 +29,7 @@
 -->
 </div>
 
-## 🚀 Tech Stack
+## 🚀 Tech I've Used
 
 |||
 |-|-|
