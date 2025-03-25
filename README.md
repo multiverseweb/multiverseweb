@@ -2,6 +2,8 @@
   
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
 
+<br>
+
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
 🌐 Software developer and an open-source enthusiast.<br>
 🌱 I'm currently working on <a href="https://multiverse-dataverse.netlify.app/" target="_blank">Dataverse</a> and [Mars Rover](https://github.com/multiverseweb/mars_rover) 🛰️<br>
