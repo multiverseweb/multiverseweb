@@ -30,8 +30,6 @@
 -->
 </div>
 
-## 🚀 Tech I've Used
-
 <div style=overflow-x: scroll;">
 
 | Tech I've Used |
