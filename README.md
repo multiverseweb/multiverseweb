@@ -29,7 +29,7 @@
 <a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Links-teal?style=flat) </a>
 -->
 </div>
-
+<br>
 <div style=overflow-x: scroll;">
 
 | Tech I've Used |
