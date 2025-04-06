@@ -64,6 +64,9 @@
 | <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
 |:---:|:---:|
 
+  <img src="https://raw.githubusercontent.com/multiverseweb/github-stats-transparent/output/generated/overview.svg" alt="Tejas' GitHub stats" /> 
+  <img src="https://raw.githubusercontent.com/multiverseweb/github-stats-transparent/output/generated/languages.svg" alt="Tejas' GitHub languages" />
+
 </div>
 <div align="center">
 Show some ❤️ by starring some of the repositories you like ⭐ or by buying me a coffee!
