@@ -1,7 +1,7 @@
 <div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Tejas Gupta</a></h1><img src="https://komarev.com/ghpvc/?username=multiverseweb" align="right"><img src="https://img.shields.io/github/stars/multiverseweb?label=Star%20Gazers&style=social" align="right">
   
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
-
+<a href="https://leetcode.com/u/tejasgupta26/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejasgupta26&logo=leetcode&logoColor=yellow"/></a>
 <br>
 
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
