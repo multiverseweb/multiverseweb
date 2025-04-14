@@ -10,7 +10,7 @@
 
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
 🌐 Software developer and an open-source enthusiast.<br>
-🌱 I'm currently working on <a href="https://github.com/multiverseweb/Dataverse">Dataverse</a> and [Mars Rover](https://github.com/multiverseweb/mars_rover) 🛰️<br>
+🌱 I'm currently working on <a href="https://github.com/multiverseweb/Dataverse">Dataverse</a> and [Rover](https://github.com/multiverseweb/mars_rover) 🛰️<br>
 👨‍💻 Ask me about Web Development & Python Application Development.<br>
 🪐 I'm a space enthusiast and an astrophotographer!<br>
 📫 See what else I do & feel free to connect with me here:<br>
