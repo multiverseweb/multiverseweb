@@ -1,4 +1,4 @@
-<div style="display:flex;"><h1>Hey, I'm <a href="https://tejas-new.netlify.app/">Tejas Gupta</a></h1>
+<div style="display:flex;"><h1>Hey, I'm <a href="https://tejas-new.vercel.app/">Tejas Gupta</a></h1>
 <a href="https://wakatime.com/@00fe6e96-b87b-4713-a5b1-5f32fdf6873c"><img src="https://wakatime.com/badge/user/00fe6e96-b87b-4713-a5b1-5f32fdf6873c.svg?style=flat" alt="Total time coded since Apr 14 2025" /></a>
 <img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌍%20Total%20Visitors%20&color=263759">
 <a href="https://github.com/multiverseweb?tab=repositories"><img src="https://img.shields.io/github/stars/multiverseweb?style=flat&logo=github&label=Stargazers&color=teal"/></a>
