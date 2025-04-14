@@ -1,7 +1,11 @@
-<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Tejas Gupta</a></h1><img src="https://komarev.com/ghpvc/?username=multiverseweb" align="right"><img src="https://img.shields.io/github/stars/multiverseweb?label=Star%20Gazers&style=social" align="right">
-  
+<div style="display:flex;"><h1>Hey, I'm <a href="https://tejas-new.netlify.app/">Tejas Gupta</a></h1>
+<img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌍%20Total%20Visitors%20&color=263759">
+<a href="https://github.com/multiverseweb?tab=repositories"><img src="https://img.shields.io/github/stars/multiverseweb?style=flat&logo=github&label=Stargazers&color=teal"/></a>
+<a href="https://leetcode.com/u/tejas-gupta/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejas-gupta&logo=leetcode&logoColor=yellow"/></a>
+
+<!--<img src="https://img.shields.io/github/stars/multiverseweb?label=Star%20Gazers&style=social">-->
+<!--<a href="https://wakatime.com/@fa1de4aa-c8eb-4007-922c-6ba0178254ab"><img src="https://wakatime.com/badge/user/fa1de4aa-c8eb-4007-922c-6ba0178254ab.svg"/></a>-->
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
-<!--<a href="https://leetcode.com/u/tejas-gupta/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejas-gupta&logo=leetcode&logoColor=yellow"/></a>-->
 <br>
 
 🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
@@ -55,13 +59,12 @@
 
 <!-- GitHub Analytics -->
 ## :octocat: GitHub Analytics
-
   <div align="center">
     
-| <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
+| <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=transparent&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=transparent&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=transparent&hide_border=true"> |
 |:---:|:---:|:---:|
     
-| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
+| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=transparent&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=transparent&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
 |:---:|:---:|
 
 </div>
