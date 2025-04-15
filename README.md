@@ -20,7 +20,6 @@
   <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> . 
   <a href="https://tejas-artworks.netlify.app">Artworks</a> . 
   <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> .
-  <a href="https://instagram.com/tejasgupta._">Instagram</a> .
   <a href="https://tejas-links.netlify.app/">Linktree</a> 
 </div>
 
