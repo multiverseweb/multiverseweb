@@ -13,26 +13,8 @@
 🌱 I'm currently working on <a href="https://github.com/multiverseweb/Dataverse">Dataverse</a> and [Rover](https://github.com/multiverseweb/mars_rover) 🛰️<br>
 👨‍💻 Ask me about Web Development & Python Application Development.<br>
 🪐 I'm a space enthusiast and an astrophotographer!<br>
-📫 See what else I do & feel free to connect with me here:<br>
+📫 See what else I do & feel free to connect with me <a href="https://tejas-links.netlify.app/">here</a>.
 
-<div align="center">
-  <a href="https://tejas-new.vercel.app/">Portfolio</a> .
-  <a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">Journal</a> . 
-  <a href="https://tejas-artworks.netlify.app">Artworks</a> . 
-  <a href="https://www.linkedin.com/in/tejascodes/">LinkedIn</a> .
-  <a href="https://tejas-links.netlify.app/">Linktree</a> 
-</div>
-
-<!--
-<div align="center">
-
-<a href= "https://tejasgupta.netlify.app/"> ![Portfolio](https://img.shields.io/badge/Portfolio-ffbf00?style=flat)</a>
-<a href="https://astrotejas.notion.site/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd">![Notion](https://img.shields.io/badge/JOURNAL-%231b1c27.svg?style=flat)</a>
-<a href= "https://leetcode.com/tejas-gupta/"> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.linkedin.com/in/tejascodes/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
-<a href="https://instagram.com/tejasgupta._" target="blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
-<a href= "https://tejas-links.netlify.app/"> ![Linktree](https://img.shields.io/badge/Other%20Links-teal?style=flat) </a>
--->
 </div>
 <br>
 <div style=overflow-x: scroll;">
