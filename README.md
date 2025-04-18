@@ -1,5 +1,5 @@
 <div style="display:flex;"><h1>Hey, I'm <a href="https://tejas-new.vercel.app/">Tejas Gupta</a></h1>
-<a href="https://wakatime.com/@00fe6e96-b87b-4713-a5b1-5f32fdf6873c"><img src="https://wakatime.com/badge/user/00fe6e96-b87b-4713-a5b1-5f32fdf6873c.svg?style=flat" alt="Total time coded since Apr 14 2025" /></a>
+<a href="https://wakatime.com/@ae130591-b326-49e9-ad6d-869b9ac9d27b"><img src="https://wakatime.com/badge/user/ae130591-b326-49e9-ad6d-869b9ac9d27b.svg" alt="Total time coded since Apr 14 2025" /></a>
 <img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌍%20Total%20Visitors%20&color=263759">
 <a href="https://github.com/multiverseweb?tab=repositories"><img src="https://img.shields.io/github/stars/multiverseweb?style=flat&logo=github&label=Stargazers&color=teal"/></a>
 <a href="https://leetcode.com/u/tejas-gupta/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejas-gupta&logo=leetcode&logoColor=yellow"/></a>
