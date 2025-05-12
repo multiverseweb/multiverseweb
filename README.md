@@ -38,12 +38,28 @@
 
 </div>
 
-<!-- GitHub Analytics -->
+<!-- GitHub Analytics
 ## :octocat: GitHub Analytics
 <div align="center">
 <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131871888&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @multiverseweb">
 <img align="center" width="771" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=242331&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
 </div>
+ -->
+ 
+<details open>
+<summary> <b style="font-size:1.2rem;"> :octocat: GitHub Analytics</b> </summary>
+<br>
+
+ <div align="center">
+    
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=transparent&hide_border=true) |
+|:---:|:---:|:---:|
+    
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=transparent) | ![](https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=transparent&color=F8D866&line=0066ff&point=00a2ff&area=true&hide_border=true) |
+|:---:|:---:|
+
+</div>
+</details>
 
 <br>
 <div align="center">
