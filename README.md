@@ -17,7 +17,9 @@
 
 </div>
 <br>
-<div style=overflow-x: scroll;">
+<details open>
+<summary> <b style="font-size:1.2rem;"> 💻 Tech Stack</b> </summary>
+<br> 
 
 | Tech I've Used |
 |-----------|
@@ -36,7 +38,7 @@
 
 ---
 
-</div>
+</details>
 
 <!-- GitHub Analytics
 ## :octocat: GitHub Analytics
