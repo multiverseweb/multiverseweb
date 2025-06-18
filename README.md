@@ -1,4 +1,4 @@
-<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.vercel.app/">Tejas Gupta</a></h1>
+<div style="display:flex;"><h1>Hello, I'm <a href="https://tejasgupta.vercel.app/">Tejas</a></h1>
 <a href="https://wakatime.com/@ae130591-b326-49e9-ad6d-869b9ac9d27b"><img src="https://wakatime.com/badge/user/ae130591-b326-49e9-ad6d-869b9ac9d27b.svg" alt="Total time coded since Apr 14 2025" /></a>
 <img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌍%20Total%20Visitors%20&color=263759">
 <a href="https://github.com/multiverseweb?tab=repositories"><img src="https://img.shields.io/github/stars/multiverseweb?style=flat&logo=github&label=Stargazers&color=teal"/></a>
@@ -8,12 +8,7 @@
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
 <br>
 
-🎓 Pursuing my `Bachelor's Degree` in `Computer Science`.<br>
-🌐 Software developer and an open-source enthusiast.<br>
-🌱 I'm currently working on <a href="https://github.com/multiverseweb/Dataverse">Dataverse</a> and [Rover](https://github.com/multiverseweb/mars_rover) 🛰️<br>
-👨‍💻 Ask me about Web Development & Python Application Development.<br>
-🪐 I'm a space enthusiast and an astrophotographer!<br>
-📫 See what else I do & feel free to connect with me <a href="https://tejas-links.netlify.app/">here</a>.
+A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [Dataverse](https://github.com/multiverseweb/Dataverse) and a [Rover](https://github.com/multiverseweb/mars_rover). I often find ways to use tech to aid my interest in space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. Check out more of my work [here](https://tejasgupta.vercel.app/).
 
 </div>
 <br>
