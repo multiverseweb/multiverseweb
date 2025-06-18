@@ -8,7 +8,7 @@
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
 <br>
 
-A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [Dataverse](https://github.com/multiverseweb/Dataverse) and a [Rover](https://github.com/multiverseweb/mars_rover). I often find ways to use tech to aid my interest in space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. Check out more of my work [here](https://tejasgupta.vercel.app/).
+A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [Dataverse](https://github.com/multiverseweb/Dataverse) and a [Rover](https://github.com/multiverseweb/rover). I often find ways to use tech to aid my interest in space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. Check out more of my work [here](https://tejasgupta.vercel.app/).
 
 </div>
 <br>
