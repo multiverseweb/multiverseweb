@@ -16,7 +16,7 @@ Check out more of my work [here](https://tejasgupta.vercel.app/).
 <br>
 
 <details>
-<summary> <b style="font-size:1.2rem;"> 🛡️ Holopin Badges </b> </summary>
+<summary> <b style="font-size:1.2rem;"> 🛡️ Holopin Board </b> </summary>
  
 [![An image of Tejas' Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/multiverseweb)](https://holopin.io/@multiverseweb)
 
@@ -81,5 +81,6 @@ Show some ❤️ by starring the repositories you like ⭐ or by buying me a cof
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
 </p>
+
 
 
