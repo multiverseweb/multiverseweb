@@ -1,4 +1,4 @@
-<div style="display:flex;"><h1>Hello, I'm <a href="https://tejasgupta.vercel.app/">Tejas</a></h1>
+<div style="display:flex;"><h1>Hello, I'm <a href="https://tejasgupta.work/">Tejas</a></h1>
 <a href="https://wakatime.com/@ae130591-b326-49e9-ad6d-869b9ac9d27b"><img src="https://wakatime.com/badge/user/ae130591-b326-49e9-ad6d-869b9ac9d27b.svg" alt="Total time coded since Apr 14 2025" /></a>
 <img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌍%20Total%20Visitors%20&color=263759">
 <a href="https://github.com/multiverseweb?tab=repositories"><img src="https://img.shields.io/github/stars/multiverseweb?style=flat&logo=github&label=Stargazers&color=teal"/></a>
@@ -8,9 +8,9 @@
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
 <br>
 
-A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [Dataverse](https://github.com/multiverseweb/Dataverse) and a cross-disciplinary [Rover](https://github.com/multiverseweb/rover) project. I often find ways to use tech to fuel my fascination for space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. 
+A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [OpenDots](https://github.com/multiverseweb/OpenDots) and a cross-disciplinary [Rover](https://github.com/multiverseweb/rover) project. I often find ways to use tech to fuel my fascination for space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. 
 
-Check out more of my work [here](https://tejasgupta.vercel.app/).
+Check out more of my work [here](https://tejasgupta.work/).
 
 </div>
 <br>
@@ -83,6 +83,7 @@ Show some ❤️ by starring the repositories you like ⭐ or by buying me a cof
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
 </p>
+
 
 
 
