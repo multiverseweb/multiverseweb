@@ -22,6 +22,8 @@ Check out more of my work [here](https://tejasgupta.work/).
 
 </details>
 
+---
+
 <details>
 <summary> <b style="font-size:1.2rem;"> 💻 Tech Stack</b> </summary>
 <br> 
@@ -43,9 +45,9 @@ Check out more of my work [here](https://tejasgupta.work/).
 | **🖥⠀OS** |
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Microsoft&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) |
 
----
-
 </details>
+
+---
 
 <!-- GitHub Analytics
 ## :octocat: GitHub Analytics
