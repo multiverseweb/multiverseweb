@@ -22,7 +22,7 @@ Check out more of my work [here](https://tejasgupta.work/).
 
 </details>
 
-<details open>
+<details>
 <summary> <b style="font-size:1.2rem;"> 💻 Tech Stack</b> </summary>
 <br> 
 
