@@ -22,8 +22,6 @@ Check out more of my work [here](https://tejasgupta.work/).
 
 </details>
 
----
-
 <details>
 <summary> <b style="font-size:1.2rem;"> 💻 Tech Stack</b> </summary>
 <br> 
@@ -47,8 +45,6 @@ Check out more of my work [here](https://tejasgupta.work/).
 
 </details>
 
----
-
 <!-- GitHub Analytics
 ## :octocat: GitHub Analytics
 <div align="center">
@@ -57,7 +53,7 @@ Check out more of my work [here](https://tejasgupta.work/).
 </div>
  -->
  
-<details>
+<details open>
 <summary> <b style="font-size:1.2rem;"> :octocat: GitHub Analytics</b> </summary>
 <br>
 
