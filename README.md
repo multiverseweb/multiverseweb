@@ -55,7 +55,7 @@ Check out more of my work [here](https://tejasgupta.work/).
 </div>
  -->
  
-<details open>
+<details>
 <summary> <b style="font-size:1.2rem;"> :octocat: GitHub Analytics</b> </summary>
 <br>
 
