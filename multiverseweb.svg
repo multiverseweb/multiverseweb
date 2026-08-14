@@ -1,0 +1,461 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="510" viewBox="0 0 900 510">
+  <defs>
+    <style>
+      :root {
+        --text-title: #f0f6fc;
+        --text-main: #c9d1d9;
+        --text-muted: #8b949e;
+        --grid-color: rgba(255, 255, 255, 0.15);
+      }
+      @media (prefers-color-scheme: light) {
+        :root {
+          --text-title: #0f172a;
+          --text-main: #334155;
+          --text-muted: #64748b;
+          --grid-color: rgba(0, 0, 0, 0.15);
+        }
+      }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; fill: var(--text-title); }
+      .stat-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 400; fill: var(--text-main); }
+      .stat-bullet { fill: var(--text-muted); font-size: 13px; font-weight: 400; }
+      .loc-add { fill: #3fb950; font-weight: 400; }
+      .loc-del { fill: #f85149; font-weight: 400; }
+      .chart-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 400; fill: var(--text-title); letter-spacing: 0.3px; }
+      .axis-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: var(--text-muted); }
+      .axis-label-bold { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; fill: var(--text-title); }
+      .axis-label-small { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 8.5px; font-weight: 400; fill: var(--text-muted); }
+    </style>
+
+    <linearGradient id="viridisGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#440154"/><stop offset="25%" stop-color="#3b518b"/><stop offset="50%" stop-color="#21918c"/><stop offset="75%" stop-color="#46c76c"/><stop offset="100%" stop-color="#fde725"/>
+    </linearGradient>
+
+    <linearGradient id="plasmaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d0887"/><stop offset="25%" stop-color="#8b0aa5"/><stop offset="50%" stop-color="#db5c68"/><stop offset="75%" stop-color="#feb42c"/><stop offset="100%" stop-color="#f0f921"/>
+    </linearGradient>
+
+    <linearGradient id="viridisArea" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ea87e" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#462271" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Space Theme Background Elements (Exact IAU Taurus & Pisces Constellations) -->
+  <g class="space-decorations">
+  <circle cx="45" cy="18" r="1.2" fill="#ffffff" opacity="0.6"/>
+  <circle cx="180" cy="12" r="0.8" fill="#ffffff" opacity="0.4"/>
+  <circle cx="320" cy="22" r="1.5" fill="#ffffff" opacity="0.7"/>
+  <circle cx="510" cy="14" r="1.0" fill="#ffffff" opacity="0.5"/>
+  <circle cx="740" cy="20" r="1.3" fill="#ffffff" opacity="0.8"/>
+  <circle cx="860" cy="16" r="0.9" fill="#ffffff" opacity="0.4"/>
+  <circle cx="60" cy="140" r="1.0" fill="#ffffff" opacity="0.5"/>
+  <circle cx="140" cy="220" r="0.8" fill="#ffffff" opacity="0.3"/>
+  <circle cx="280" cy="190" r="1.4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="410" cy="130" r="0.9" fill="#ffffff" opacity="0.4"/>
+  <circle cx="620" cy="180" r="1.2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="820" cy="110" r="1.1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="35" cy="340" r="1.1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="210" cy="310" r="1.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="480" cy="330" r="0.8" fill="#ffffff" opacity="0.4"/>
+  <circle cx="690" cy="320" r="1.2" fill="#ffffff" opacity="0.6"/>
+  <circle cx="850" cy="350" r="1.0" fill="#ffffff" opacity="0.5"/>
+  <circle cx="120" cy="460" r="1.3" fill="#ffffff" opacity="0.7"/>
+  <circle cx="350" cy="480" r="0.9" fill="#ffffff" opacity="0.4"/>
+  <circle cx="580" cy="470" r="1.4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="790" cy="490" r="1.0" fill="#ffffff" opacity="0.5"/>
+  <path d="M 110 31 L 111 34 L 114 35 L 111 36 L 110 39 L 109 36 L 106 35 L 109 34 Z" fill="#ffffff" opacity="0.6"/>
+  <path d="M 440 21 L 441 24 L 444 25 L 441 26 L 440 29 L 439 26 L 436 25 L 439 24 Z" fill="#ffffff" opacity="0.6"/>
+  <path d="M 780 31 L 781 34 L 784 35 L 781 36 L 780 39 L 779 36 L 776 35 L 779 34 Z" fill="#ffffff" opacity="0.6"/>
+  <path d="M 240 196 L 241 199 L 244 200 L 241 201 L 240 204 L 239 201 L 236 200 L 239 199 Z" fill="#ffffff" opacity="0.6"/>
+  <path d="M 660 146 L 661 149 L 664 150 L 661 151 L 660 154 L 659 151 L 656 150 L 659 149 Z" fill="#ffffff" opacity="0.6"/>
+  <path d="M 410 306 L 411 309 L 414 310 L 411 311 L 410 314 L 409 311 L 406 310 L 409 309 Z" fill="#ffffff" opacity="0.6"/>
+  <!-- TAURUS CONSTELLATION (EXACT IAU ASTRONOMICAL CHART) -->
+  <circle cx="360" cy="160" r="2.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="450" cy="75" r="2.2" fill="#ffffff" opacity="0.9"/>
+  <circle cx="465" cy="145" r="2.0" fill="#ffffff" opacity="0.9"/>
+  <circle cx="330" cy="130" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="310" cy="140" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="300" cy="155" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="335" cy="165" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="260" cy="175" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="210" cy="195" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="248" cy="102" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="252" cy="99" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="256" cy="104" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="260" cy="101" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="250" cy="109" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="255" cy="112" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <circle cx="261" cy="108" r="1.1" fill="#ffffff" opacity="0.85"/>
+  <polygon points="300,155 310,140 330,130 360,160 335,165 300,155" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="330,130 450,75" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="360,160 465,145" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="300,155 260,175 210,195" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <!-- PISCES CONSTELLATION (EXACT IAU ASTRONOMICAL CHART) -->
+  <circle cx="660" cy="360" r="2.5" fill="#ffffff" opacity="0.9"/>
+  <circle cx="615" cy="345" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="580" cy="330" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="550" cy="320" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="525" cy="310" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="500" cy="315" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="485" cy="298" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="495" cy="278" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="518" cy="272" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="538" cy="285" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="700" cy="330" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="735" cy="290" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="760" cy="245" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="775" cy="210" r="1.8" fill="#ffffff" opacity="0.9"/>
+  <circle cx="795" cy="190" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="785" cy="175" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="760" cy="185" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <circle cx="765" cy="202" r="1.6" fill="#ffffff" opacity="0.9"/>
+  <polyline points="660,360 615,345 580,330 550,320 525,310" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polygon points="525,310 500,315 485,298 495,278 518,272 538,285 525,310" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="660,360 700,330 735,290 760,245 775,210" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polygon points="775,210 765,202 760,185 785,175 795,190 775,210" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+</g>
+
+
+  <!-- ROW 1: TOP STATS TEXT LINE -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="0" class="stat-text">
+      <tspan font-weight="400" fill="var(--text-title)">Commits:</tspan> 480
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">PRs:</tspan> 31
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">Issues:</tspan> 53
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">Reviews:</tspan> 208
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">Stars:</tspan> 285
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">Forks:</tspan> 195
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan font-weight="400" fill="var(--text-title)">Repos:</tspan> 72
+      <tspan class="stat-bullet">  •  </tspan>
+      <tspan class="loc-add">+446.0k</tspan> <tspan class="loc-del">-53.6k</tspan>
+    </text>
+  </g>
+
+  <!-- ROW 2: ASYMMETRIC RADAR CHART (LEFT) & SQUARE-LIKE HEATMAP (RIGHT) -->
+
+  <!-- RADAR CHART (TITLE: Developer Activity) -->
+  <g transform="translate(30, 50)">
+    <text x="0" y="15" class="chart-title">Developer Activity</text>
+    <polygon points="190.0,110.0 203.0,117.5 203.0,132.5 190.0,140.0 177.0,132.5 177.0,117.5" fill="none" stroke="var(--grid-color)" stroke-width="1"/>
+    <polygon points="190.0,95.0 216.0,110.0 216.0,140.0 190.0,155.0 164.0,140.0 164.0,110.0" fill="none" stroke="var(--grid-color)" stroke-width="1"/>
+    <polygon points="190.0,80.0 229.0,102.5 229.0,147.5 190.0,170.0 151.0,147.5 151.0,102.5" fill="none" stroke="var(--grid-color)" stroke-width="1"/>
+    <polygon points="190.0,65.0 242.0,95.0 242.0,155.0 190.0,185.0 138.0,155.0 138.0,95.0" fill="none" stroke="var(--grid-color)" stroke-width="1"/>
+    <polygon points="190.0,50.0 255.0,87.5 255.0,162.5 190.0,200.0 125.0,162.5 125.0,87.5" fill="none" stroke="var(--grid-color)" stroke-width="1"/>
+    <line x1="190" y1="125" x2="190.0" y2="50.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="190.0" y="39.0" class="axis-label-bold" text-anchor="middle">Commits: 480</text>
+    <line x1="190" y1="125" x2="255.0" y2="87.5" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="267.1" y="83.5" class="axis-label-bold" text-anchor="start">PRs: 31</text>
+    <line x1="190" y1="125" x2="255.0" y2="162.5" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="267.1" y="172.5" class="axis-label-bold" text-anchor="start">Issues: 53</text>
+    <line x1="190" y1="125" x2="190.0" y2="200.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="190.0" y="217.0" class="axis-label-bold" text-anchor="middle">Reviews: 208</text>
+    <line x1="190" y1="125" x2="125.0" y2="162.5" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="112.9" y="172.5" class="axis-label-bold" text-anchor="end">Stars: 285</text>
+    <line x1="190" y1="125" x2="125.0" y2="87.5" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="112.9" y="83.5" class="axis-label-bold" text-anchor="end">Contributed: 32</text>
+    <polygon points="190.0,50.0 203.0,117.5 203.0,132.5 190.0,157.5 151.4,147.3 177.0,117.5" fill="rgba(204, 74, 117, 0.40)" stroke="#f6d522" stroke-width="1"/>
+    <circle cx="190.0" cy="50.0" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="203.0" cy="117.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="203.0" cy="132.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="190.0" cy="157.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="151.4" cy="147.3" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="177.0" cy="117.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(510, 50)">
+    <text x="0" y="15" class="chart-title">Commits over a week</text>
+    <text x="37.2" y="192.0" class="axis-label" text-anchor="middle">0h</text>
+    <text x="58.2" y="192.0" class="axis-label" text-anchor="middle">2h</text>
+    <text x="79.2" y="192.0" class="axis-label" text-anchor="middle">4h</text>
+    <text x="100.2" y="192.0" class="axis-label" text-anchor="middle">6h</text>
+    <text x="121.2" y="192.0" class="axis-label" text-anchor="middle">8h</text>
+    <text x="142.2" y="192.0" class="axis-label" text-anchor="middle">10h</text>
+    <text x="163.2" y="192.0" class="axis-label" text-anchor="middle">12h</text>
+    <text x="184.2" y="192.0" class="axis-label" text-anchor="middle">14h</text>
+    <text x="205.2" y="192.0" class="axis-label" text-anchor="middle">16h</text>
+    <text x="226.2" y="192.0" class="axis-label" text-anchor="middle">18h</text>
+    <text x="247.2" y="192.0" class="axis-label" text-anchor="middle">20h</text>
+    <text x="268.2" y="192.0" class="axis-label" text-anchor="middle">22h</text>
+    <text x="26" y="45.5" class="axis-label" text-anchor="end">Sat</text>
+    <rect x="32.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#1ea57f"/>
+    <rect x="189.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#218e8c"/>
+    <rect x="231.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="32.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="66.5" class="axis-label" text-anchor="end">Fri</text>
+    <rect x="32.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#1fa181"/>
+    <rect x="189.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#20918b"/>
+    <rect x="231.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="53.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="87.5" class="axis-label" text-anchor="end">Thu</text>
+    <rect x="32.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="74.0" width="10.5" height="21.0" rx="0" fill="#b1de30"/>
+    <rect x="189.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="74.0" width="10.5" height="21.0" rx="0" fill="#6cd14f"/>
+    <rect x="231.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="74.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="108.5" class="axis-label" text-anchor="end">Wed</text>
+    <rect x="32.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="95.0" width="10.5" height="21.0" rx="0" fill="#fde725"/>
+    <rect x="189.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="95.0" width="10.5" height="21.0" rx="0" fill="#a2dd32"/>
+    <rect x="231.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="95.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="129.5" class="axis-label" text-anchor="end">Tue</text>
+    <rect x="32.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="116.0" width="10.5" height="21.0" rx="0" fill="#76d448"/>
+    <rect x="189.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="116.0" width="10.5" height="21.0" rx="0" fill="#3ac070"/>
+    <rect x="231.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="116.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="150.5" class="axis-label" text-anchor="end">Mon</text>
+    <rect x="32.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="137.0" width="10.5" height="21.0" rx="0" fill="#82d73f"/>
+    <rect x="189.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="137.0" width="10.5" height="21.0" rx="0" fill="#4bc868"/>
+    <rect x="231.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="137.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <text x="26" y="171.5" class="axis-label" text-anchor="end">Sun</text>
+    <rect x="32.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="42.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="53.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="63.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="74.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="84.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="95.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="105.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="116.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="126.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="137.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="147.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="158.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="168.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="179.0" y="158.0" width="10.5" height="21.0" rx="0" fill="#1ea57f"/>
+    <rect x="189.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="200.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="210.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="221.0" y="158.0" width="10.5" height="21.0" rx="0" fill="#209887"/>
+    <rect x="231.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="242.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="252.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="263.0" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <rect x="273.5" y="158.0" width="10.5" height="21.0" rx="0" fill="transparent"/>
+    <line x1="32" y1="32" x2="32" y2="179.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <line x1="32" y1="179.0" x2="284.0" y2="179.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="204.0" y="209" class="axis-label" text-anchor="end">0</text>
+    <rect x="214.0" y="203" width="10" height="7" rx="0" fill="transparent" stroke="var(--grid-color)" stroke-width="0.8"/>
+    <rect x="226.0" y="203" width="10" height="7" rx="0" fill="#2a778d" />
+    <rect x="238.0" y="203" width="10" height="7" rx="0" fill="#1ea87e" />
+    <rect x="250.0" y="203" width="10" height="7" rx="0" fill="#62ce57" />
+    <rect x="262.0" y="203" width="10" height="7" rx="0" fill="#fde725" />
+    <text x="280.0" y="209" class="axis-label">146</text>
+  </g>
+
+  <g transform="translate(30, 285)">
+    <text x="0" y="15" class="chart-title">Commits over a month</text>
+    <line x1="25" y1="110.0" x2="830" y2="110.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="20" y="113.0" class="axis-label" text-anchor="end">0</text>
+    <line x1="25" y1="71.0" x2="830" y2="71.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="20" y="74.0" class="axis-label" text-anchor="end">8</text>
+    <line x1="25" y1="32.0" x2="830" y2="32.0" stroke="var(--grid-color)" stroke-width="1"/>
+    <text x="20" y="35.0" class="axis-label" text-anchor="end">17</text>
+    <path d="M 25.0 105.4 C 38.9 105.4, 38.9 77.9, 52.8 77.9 C 66.6 77.9, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 110.0, 108.3 110.0 C 122.2 110.0, 122.2 110.0, 136.0 110.0 C 149.9 110.0, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 110.0, 191.6 110.0 C 205.4 110.0, 205.4 100.8, 219.3 100.8 C 233.2 100.8, 233.2 91.6, 247.1 91.6 C 260.9 91.6, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 110.0, 302.6 110.0 C 316.5 110.0, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 105.4, 358.1 105.4 C 372.0 105.4, 372.0 91.6, 385.9 91.6 C 399.7 91.6, 399.7 105.4, 413.6 105.4 C 427.5 105.4, 427.5 105.4, 441.4 105.4 C 455.3 105.4, 455.3 96.2, 469.1 96.2 C 483.0 96.2, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 32.0, 552.4 32.0 C 566.3 32.0, 566.3 73.3, 580.2 73.3 C 594.1 73.3, 594.1 100.8, 607.9 100.8 C 621.8 100.8, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 110.0, 691.2 110.0 C 705.1 110.0, 705.1 73.3, 719.0 73.3 C 732.8 73.3, 732.8 77.9, 746.7 77.9 C 760.6 77.9, 760.6 110.0, 774.5 110.0 C 788.4 110.0, 788.4 105.4, 802.2 105.4 C 816.1 105.4, 816.1 100.8, 830.0 100.8 L 830.0 110.0 L 25.0 110.0 Z" fill="url(#viridisArea)"/>
+    <path d="M 25.0 105.4 C 38.9 105.4, 38.9 77.9, 52.8 77.9 C 66.6 77.9, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 110.0, 108.3 110.0 C 122.2 110.0, 122.2 110.0, 136.0 110.0 C 149.9 110.0, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 110.0, 191.6 110.0 C 205.4 110.0, 205.4 100.8, 219.3 100.8 C 233.2 100.8, 233.2 91.6, 247.1 91.6 C 260.9 91.6, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 110.0, 302.6 110.0 C 316.5 110.0, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 105.4, 358.1 105.4 C 372.0 105.4, 372.0 91.6, 385.9 91.6 C 399.7 91.6, 399.7 105.4, 413.6 105.4 C 427.5 105.4, 427.5 105.4, 441.4 105.4 C 455.3 105.4, 455.3 96.2, 469.1 96.2 C 483.0 96.2, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 32.0, 552.4 32.0 C 566.3 32.0, 566.3 73.3, 580.2 73.3 C 594.1 73.3, 594.1 100.8, 607.9 100.8 C 621.8 100.8, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 110.0, 691.2 110.0 C 705.1 110.0, 705.1 73.3, 719.0 73.3 C 732.8 73.3, 732.8 77.9, 746.7 77.9 C 760.6 77.9, 760.6 110.0, 774.5 110.0 C 788.4 110.0, 788.4 105.4, 802.2 105.4 C 816.1 105.4, 816.1 100.8, 830.0 100.8" fill="none" stroke="url(#viridisGrad)" stroke-width="1"/>
+    <line x1="25.0" y1="110" x2="25.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="25.0" y="129" class="axis-label-small" text-anchor="start">1</text>
+    <line x1="52.8" y1="110" x2="52.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="52.8" y="129" class="axis-label-small" text-anchor="middle">2</text>
+    <line x1="80.5" y1="110" x2="80.5" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="80.5" y="129" class="axis-label-small" text-anchor="middle">3</text>
+    <line x1="108.3" y1="110" x2="108.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="108.3" y="129" class="axis-label-small" text-anchor="middle">4</text>
+    <line x1="136.0" y1="110" x2="136.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="136.0" y="129" class="axis-label-small" text-anchor="middle">5</text>
+    <line x1="163.8" y1="110" x2="163.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="163.8" y="129" class="axis-label-small" text-anchor="middle">6</text>
+    <line x1="191.6" y1="110" x2="191.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="191.6" y="129" class="axis-label-small" text-anchor="middle">7</text>
+    <line x1="219.3" y1="110" x2="219.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="219.3" y="129" class="axis-label-small" text-anchor="middle">8</text>
+    <line x1="247.1" y1="110" x2="247.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="247.1" y="129" class="axis-label-small" text-anchor="middle">9</text>
+    <line x1="274.8" y1="110" x2="274.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="274.8" y="129" class="axis-label-small" text-anchor="middle">10</text>
+    <line x1="302.6" y1="110" x2="302.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="302.6" y="129" class="axis-label-small" text-anchor="middle">11</text>
+    <line x1="330.3" y1="110" x2="330.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="330.3" y="129" class="axis-label-small" text-anchor="middle">12</text>
+    <line x1="358.1" y1="110" x2="358.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="358.1" y="129" class="axis-label-small" text-anchor="middle">13</text>
+    <line x1="385.9" y1="110" x2="385.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="385.9" y="129" class="axis-label-small" text-anchor="middle">14</text>
+    <line x1="413.6" y1="110" x2="413.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="413.6" y="129" class="axis-label-small" text-anchor="middle">15</text>
+    <line x1="441.4" y1="110" x2="441.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="441.4" y="129" class="axis-label-small" text-anchor="middle">16</text>
+    <line x1="469.1" y1="110" x2="469.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="469.1" y="129" class="axis-label-small" text-anchor="middle">17</text>
+    <line x1="496.9" y1="110" x2="496.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="496.9" y="129" class="axis-label-small" text-anchor="middle">18</text>
+    <line x1="524.7" y1="110" x2="524.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="524.7" y="129" class="axis-label-small" text-anchor="middle">19</text>
+    <line x1="552.4" y1="110" x2="552.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="552.4" y="129" class="axis-label-small" text-anchor="middle">20</text>
+    <line x1="580.2" y1="110" x2="580.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="580.2" y="129" class="axis-label-small" text-anchor="middle">21</text>
+    <line x1="607.9" y1="110" x2="607.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="607.9" y="129" class="axis-label-small" text-anchor="middle">22</text>
+    <line x1="635.7" y1="110" x2="635.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="635.7" y="129" class="axis-label-small" text-anchor="middle">23</text>
+    <line x1="663.4" y1="110" x2="663.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="663.4" y="129" class="axis-label-small" text-anchor="middle">24</text>
+    <line x1="691.2" y1="110" x2="691.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="691.2" y="129" class="axis-label-small" text-anchor="middle">25</text>
+    <line x1="719.0" y1="110" x2="719.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="719.0" y="129" class="axis-label-small" text-anchor="middle">26</text>
+    <line x1="746.7" y1="110" x2="746.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="746.7" y="129" class="axis-label-small" text-anchor="middle">27</text>
+    <line x1="774.5" y1="110" x2="774.5" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="774.5" y="129" class="axis-label-small" text-anchor="middle">28</text>
+    <line x1="802.2" y1="110" x2="802.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="802.2" y="129" class="axis-label-small" text-anchor="middle">29</text>
+    <line x1="830.0" y1="110" x2="830.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
+    <text x="830.0" y="129" class="axis-label-small" text-anchor="end">30</text>
+  </g>
+
+  <g transform="translate(30, 440)">
+    <text x="0" y="15" class="chart-title">Most used languages</text>
+    <rect x="0.0" y="24" width="272.9" height="8" rx="0" fill="#404183"/>
+    <rect x="272.9" y="24" width="267.4" height="8" rx="0" fill="#2b738d"/>
+    <rect x="540.3" y="24" width="213.7" height="8" rx="0" fill="#1fa281"/>
+    <rect x="754.0" y="24" width="43.0" height="8" rx="0" fill="#4dc866"/>
+    <rect x="797.1" y="24" width="42.9" height="8" rx="0" fill="#cfe22c"/>
+    <rect x="0" y="40" width="6" height="6" rx="0" fill="#404183"/>
+    <text x="10" y="46" class="axis-label-bold">TeX (32%)</text>
+    <rect x="135" y="40" width="6" height="6" rx="0" fill="#2b738d"/>
+    <text x="145" y="46" class="axis-label-bold">HTML (32%)</text>
+    <rect x="270" y="40" width="6" height="6" rx="0" fill="#1fa281"/>
+    <text x="280" y="46" class="axis-label-bold">CSS (25%)</text>
+    <rect x="405" y="40" width="6" height="6" rx="0" fill="#4dc866"/>
+    <text x="415" y="46" class="axis-label-bold">JavaScript (5%)</text>
+    <rect x="540" y="40" width="6" height="6" rx="0" fill="#cfe22c"/>
+    <text x="550" y="46" class="axis-label-bold">Python (5%)</text>
+  </g>
+</svg>
