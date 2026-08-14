@@ -11,14 +11,7 @@ Check out more of my work [here](https://tejasgupta.work).
 
 </div>
 
-<br>
-
-<details>
-<summary> <b style="font-size:1.2rem;"> 🛡️ Holopin Board </b> </summary>
- 
-[![An image of Tejas' Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/multiverseweb)](https://holopin.io/@multiverseweb)
-
-</details>
+<!--
 
 <details>
 <summary> <b style="font-size:1.2rem;"> 💻 Tech Stack</b> </summary>
@@ -43,9 +36,11 @@ Check out more of my work [here](https://tejasgupta.work).
 
 </details>
 
+-->
+
 <img src="https://raw.githubusercontent.com/multiverseweb/multiverseweb/main/multiverseweb.svg" width="100%" alt="GitHub Stats" />
 
-
+<!--
 <div align="center">
 Show some ❤️ by starring the repositories you like ⭐ or by buying me a coffee!
 </div>
@@ -53,12 +48,12 @@ Show some ❤️ by starring the repositories you like ⭐ or by buying me a cof
 <div align="center">
 <a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
 </div>
-<div align="center" style= "display: block;">
+
+-->
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
 </p>
-
 
 
 
