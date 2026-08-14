@@ -6,6 +6,8 @@
         --text-main: #c9d1d9;
         --text-muted: #8b949e;
         --grid-color: rgba(255, 255, 255, 0.15);
+        --star-color: #ffffff;
+        --constellation-line: rgba(255, 255, 255, 0.22);
       }
       @media (prefers-color-scheme: light) {
         :root {
@@ -13,6 +15,8 @@
           --text-main: #334155;
           --text-muted: #64748b;
           --grid-color: rgba(0, 0, 0, 0.15);
+          --star-color: #000000;
+          --constellation-line: rgba(0, 0, 0, 0.25);
         }
       }
       .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; fill: var(--text-title); }
@@ -40,79 +44,79 @@
     </linearGradient>
   </defs>
 
-  <!-- Space Theme Background Elements -->
+  <!-- Space Theme Background Elements (White in Dark Mode, Black in Light Mode) -->
   <g class="space-decorations">
-  <circle cx="45" cy="18" r="1.2" fill="#ffffff" opacity="0.6"/>
-  <circle cx="180" cy="12" r="0.8" fill="#ffffff" opacity="0.4"/>
-  <circle cx="320" cy="22" r="1.5" fill="#ffffff" opacity="0.7"/>
-  <circle cx="510" cy="14" r="1.0" fill="#ffffff" opacity="0.5"/>
-  <circle cx="740" cy="20" r="1.3" fill="#ffffff" opacity="0.8"/>
-  <circle cx="860" cy="16" r="0.9" fill="#ffffff" opacity="0.4"/>
-  <circle cx="60" cy="140" r="1.0" fill="#ffffff" opacity="0.5"/>
-  <circle cx="140" cy="220" r="0.8" fill="#ffffff" opacity="0.3"/>
-  <circle cx="280" cy="190" r="1.4" fill="#ffffff" opacity="0.6"/>
-  <circle cx="410" cy="130" r="0.9" fill="#ffffff" opacity="0.4"/>
-  <circle cx="620" cy="180" r="1.2" fill="#ffffff" opacity="0.7"/>
-  <circle cx="820" cy="110" r="1.1" fill="#ffffff" opacity="0.5"/>
-  <circle cx="35" cy="340" r="1.1" fill="#ffffff" opacity="0.4"/>
-  <circle cx="210" cy="310" r="1.5" fill="#ffffff" opacity="0.8"/>
-  <circle cx="480" cy="330" r="0.8" fill="#ffffff" opacity="0.4"/>
-  <circle cx="690" cy="320" r="1.2" fill="#ffffff" opacity="0.6"/>
-  <circle cx="850" cy="350" r="1.0" fill="#ffffff" opacity="0.5"/>
-  <circle cx="120" cy="460" r="1.3" fill="#ffffff" opacity="0.7"/>
-  <circle cx="350" cy="480" r="0.9" fill="#ffffff" opacity="0.4"/>
-  <circle cx="580" cy="470" r="1.4" fill="#ffffff" opacity="0.6"/>
-  <circle cx="790" cy="490" r="1.0" fill="#ffffff" opacity="0.5"/>
-  <path d="M 110 31 L 111 34 L 114 35 L 111 36 L 110 39 L 109 36 L 106 35 L 109 34 Z" fill="#ffffff" opacity="0.6"/>
-  <path d="M 440 21 L 441 24 L 444 25 L 441 26 L 440 29 L 439 26 L 436 25 L 439 24 Z" fill="#ffffff" opacity="0.6"/>
-  <path d="M 780 31 L 781 34 L 784 35 L 781 36 L 780 39 L 779 36 L 776 35 L 779 34 Z" fill="#ffffff" opacity="0.6"/>
-  <path d="M 240 196 L 241 199 L 244 200 L 241 201 L 240 204 L 239 201 L 236 200 L 239 199 Z" fill="#ffffff" opacity="0.6"/>
-  <path d="M 660 146 L 661 149 L 664 150 L 661 151 L 660 154 L 659 151 L 656 150 L 659 149 Z" fill="#ffffff" opacity="0.6"/>
-  <path d="M 410 306 L 411 309 L 414 310 L 411 311 L 410 314 L 409 311 L 406 310 L 409 309 Z" fill="#ffffff" opacity="0.6"/>
+  <circle cx="45" cy="18" r="1.2" fill="var(--star-color)" opacity="0.6"/>
+  <circle cx="180" cy="12" r="0.8" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="320" cy="22" r="1.5" fill="var(--star-color)" opacity="0.7"/>
+  <circle cx="510" cy="14" r="1.0" fill="var(--star-color)" opacity="0.5"/>
+  <circle cx="740" cy="20" r="1.3" fill="var(--star-color)" opacity="0.8"/>
+  <circle cx="860" cy="16" r="0.9" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="60" cy="140" r="1.0" fill="var(--star-color)" opacity="0.5"/>
+  <circle cx="140" cy="220" r="0.8" fill="var(--star-color)" opacity="0.3"/>
+  <circle cx="280" cy="190" r="1.4" fill="var(--star-color)" opacity="0.6"/>
+  <circle cx="410" cy="130" r="0.9" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="620" cy="180" r="1.2" fill="var(--star-color)" opacity="0.7"/>
+  <circle cx="820" cy="110" r="1.1" fill="var(--star-color)" opacity="0.5"/>
+  <circle cx="35" cy="340" r="1.1" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="210" cy="310" r="1.5" fill="var(--star-color)" opacity="0.8"/>
+  <circle cx="480" cy="330" r="0.8" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="690" cy="320" r="1.2" fill="var(--star-color)" opacity="0.6"/>
+  <circle cx="850" cy="350" r="1.0" fill="var(--star-color)" opacity="0.5"/>
+  <circle cx="120" cy="460" r="1.3" fill="var(--star-color)" opacity="0.7"/>
+  <circle cx="350" cy="480" r="0.9" fill="var(--star-color)" opacity="0.4"/>
+  <circle cx="580" cy="470" r="1.4" fill="var(--star-color)" opacity="0.6"/>
+  <circle cx="790" cy="490" r="1.0" fill="var(--star-color)" opacity="0.5"/>
+  <path d="M 110 31 L 111 34 L 114 35 L 111 36 L 110 39 L 109 36 L 106 35 L 109 34 Z" fill="var(--star-color)" opacity="0.6"/>
+  <path d="M 440 21 L 441 24 L 444 25 L 441 26 L 440 29 L 439 26 L 436 25 L 439 24 Z" fill="var(--star-color)" opacity="0.6"/>
+  <path d="M 780 31 L 781 34 L 784 35 L 781 36 L 780 39 L 779 36 L 776 35 L 779 34 Z" fill="var(--star-color)" opacity="0.6"/>
+  <path d="M 240 196 L 241 199 L 244 200 L 241 201 L 240 204 L 239 201 L 236 200 L 239 199 Z" fill="var(--star-color)" opacity="0.6"/>
+  <path d="M 660 146 L 661 149 L 664 150 L 661 151 L 660 154 L 659 151 L 656 150 L 659 149 Z" fill="var(--star-color)" opacity="0.6"/>
+  <path d="M 410 306 L 411 309 L 414 310 L 411 311 L 410 314 L 409 311 L 406 310 L 409 309 Z" fill="var(--star-color)" opacity="0.6"/>
   <!-- TAURUS CONSTELLATION -->
-  <circle cx="360" cy="160" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="450" cy="75" r="2.2" fill="#ffffff" opacity="0.9"/>
-  <circle cx="465" cy="145" r="2.0" fill="#ffffff" opacity="0.9"/>
-  <circle cx="330" cy="130" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="310" cy="140" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="300" cy="155" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="335" cy="165" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="260" cy="175" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="210" cy="195" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="248" cy="102" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="252" cy="99" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="256" cy="104" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="260" cy="101" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="250" cy="109" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="255" cy="112" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <circle cx="261" cy="108" r="1.1" fill="#ffffff" opacity="0.85"/>
-  <polygon points="300,155 310,140 330,130 360,160 335,165 300,155" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polyline points="330,130 450,75" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polyline points="360,160 465,145" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polyline points="300,155 260,175 210,195" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <circle cx="360" cy="160" r="2.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="450" cy="75" r="2.2" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="465" cy="145" r="2.0" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="330" cy="130" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="310" cy="140" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="300" cy="155" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="335" cy="165" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="260" cy="175" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="210" cy="195" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="248" cy="102" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="252" cy="99" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="256" cy="104" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="260" cy="101" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="250" cy="109" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="255" cy="112" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <circle cx="261" cy="108" r="1.1" fill="var(--star-color)" opacity="0.85"/>
+  <polygon points="300,155 310,140 330,130 360,160 335,165 300,155" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="330,130 450,75" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="360,160 465,145" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="300,155 260,175 210,195" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
   <!-- PISCES CONSTELLATION -->
-  <circle cx="660" cy="360" r="2.5" fill="#ffffff" opacity="0.9"/>
-  <circle cx="615" cy="345" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="580" cy="330" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="550" cy="320" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="525" cy="310" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="500" cy="315" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="485" cy="298" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="495" cy="278" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="518" cy="272" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="538" cy="285" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="700" cy="330" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="735" cy="290" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="760" cy="245" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="775" cy="210" r="1.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="795" cy="190" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="785" cy="175" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="760" cy="185" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <circle cx="765" cy="202" r="1.6" fill="#ffffff" opacity="0.9"/>
-  <polyline points="660,360 615,345 580,330 550,320 525,310" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polygon points="525,310 500,315 485,298 495,278 518,272 538,285 525,310" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polyline points="660,360 700,330 735,290 760,245 775,210" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
-  <polygon points="775,210 765,202 760,185 785,175 795,190 775,210" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <circle cx="660" cy="360" r="2.5" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="615" cy="345" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="580" cy="330" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="550" cy="320" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="525" cy="310" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="500" cy="315" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="485" cy="298" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="495" cy="278" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="518" cy="272" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="538" cy="285" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="700" cy="330" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="735" cy="290" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="760" cy="245" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="775" cy="210" r="1.8" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="795" cy="190" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="785" cy="175" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="760" cy="185" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <circle cx="765" cy="202" r="1.6" fill="var(--star-color)" opacity="0.9"/>
+  <polyline points="660,360 615,345 580,330 550,320 525,310" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polygon points="525,310 500,315 485,298 495,278 518,272 538,285 525,310" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polyline points="660,360 700,330 735,290 760,245 775,210" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <polygon points="775,210 765,202 760,185 785,175 795,190 775,210" fill="none" stroke="var(--constellation-line)" stroke-width="0.8" stroke-dasharray="2,2"/>
 </g>
 
 
@@ -160,12 +164,12 @@
     <line x1="190" y1="125" x2="125.0" y2="87.5" stroke="var(--grid-color)" stroke-width="1"/>
     <text x="112.9" y="83.5" class="axis-label-bold" text-anchor="end">Contributed: 32</text>
     <polygon points="190.0,110.0 203.0,117.5 237.4,152.4 190.0,200.0 145.6,150.7 177.0,117.5" fill="rgba(204, 74, 117, 0.40)" stroke="#f6d522" stroke-width="1"/>
-    <circle cx="190.0" cy="110.0" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
-    <circle cx="203.0" cy="117.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
-    <circle cx="237.4" cy="152.4" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
-    <circle cx="190.0" cy="200.0" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
-    <circle cx="145.6" cy="150.7" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
-    <circle cx="177.0" cy="117.5" r="3" fill="#f6d522" stroke="#ffffff" stroke-width="1"/>
+    <circle cx="190.0" cy="110.0" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
+    <circle cx="203.0" cy="117.5" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
+    <circle cx="237.4" cy="152.4" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
+    <circle cx="190.0" cy="200.0" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
+    <circle cx="145.6" cy="150.7" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
+    <circle cx="177.0" cy="117.5" r="3" fill="#f6d522" stroke="var(--star-color)" stroke-width="1"/>
   </g>
 
   <g transform="translate(510, 50)">
@@ -217,7 +221,7 @@
     <rect x="95.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#3c4c88" opacity="0.33"/>
     <rect x="105.5" y="53.0" width="10.5" height="21.0" rx="0" fill="#37588b" opacity="0.36"/>
     <rect x="116.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#2b748d" opacity="0.46"/>
-    <rect x="126.5" y="53.0" width="10.5" height="21.0" rx="0" fill="#228d8c" opacity="0.55"/>
+    <rect x="126.5" y="53.0" width="10.5" height="21.0" rx="0" fill="#218f8c" opacity="0.55"/>
     <rect x="137.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#209788" opacity="0.58"/>
     <rect x="147.5" y="53.0" width="10.5" height="21.0" rx="0" fill="#228d8c" opacity="0.55"/>
     <rect x="158.0" y="53.0" width="10.5" height="21.0" rx="0" fill="#2fb973" opacity="0.72"/>
