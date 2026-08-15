@@ -39,7 +39,7 @@ Check out more of my work [here](https://tejasgupta.work).
 
 -->
 
-<img src="https://raw.githubusercontent.com/multiverseweb/multiverseweb/main/multiverseweb.svg?v=15082026063346" width="100%" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/multiverseweb/multiverseweb/main/multiverseweb.svg?v=15082026185625" width="100%" alt="GitHub Stats" />
 
 <!--
 <div align="center">
