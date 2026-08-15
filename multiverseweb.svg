@@ -221,7 +221,7 @@
     <rect x="63.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#21908c" opacity="0.59"/>
     <rect x="74.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#345f8c" opacity="0.43"/>
     <rect x="84.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#413b81" opacity="0.33"/>
-    <rect x="95.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
+    <rect x="95.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#413b81" opacity="0.33"/>
     <rect x="105.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
     <rect x="116.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
     <rect x="126.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#38578b" opacity="0.40"/>
