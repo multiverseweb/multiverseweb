@@ -46,58 +46,58 @@
 
   <!-- Space Theme Background Elements (White in Dark Mode, Black in Light Mode) -->
   <g class="space-decorations">
-  <circle cx="165.9" cy="315.4" r="0.8" fill="var(--star-color)" opacity="0.78"/>
-  <circle cx="373.1" cy="91.6" r="1.1" fill="var(--star-color)" opacity="0.79"/>
-  <circle cx="874.7" cy="267.3" r="0.9" fill="var(--star-color)" opacity="0.67"/>
-  <circle cx="79.1" cy="259.9" r="1.4" fill="var(--star-color)" opacity="0.32"/>
-  <circle cx="456.3" cy="280.9" r="0.8" fill="var(--star-color)" opacity="0.76"/>
-  <circle cx="193.8" cy="183.6" r="0.9" fill="var(--star-color)" opacity="0.36"/>
-  <circle cx="436.5" cy="491.3" r="0.8" fill="var(--star-color)" opacity="0.75"/>
-  <circle cx="337.6" cy="320.7" r="0.9" fill="var(--star-color)" opacity="0.31"/>
-  <circle cx="801.0" cy="218.6" r="1.1" fill="var(--star-color)" opacity="0.39"/>
-  <circle cx="647.1" cy="56.7" r="0.9" fill="var(--star-color)" opacity="0.56"/>
-  <circle cx="186.5" cy="431.2" r="0.9" fill="var(--star-color)" opacity="0.44"/>
-  <circle cx="607.6" cy="384.0" r="1.4" fill="var(--star-color)" opacity="0.71"/>
-  <circle cx="132.1" cy="102.4" r="1.1" fill="var(--star-color)" opacity="0.44"/>
-  <circle cx="459.3" cy="297.3" r="0.9" fill="var(--star-color)" opacity="0.77"/>
-  <circle cx="316.0" cy="276.6" r="1.3" fill="var(--star-color)" opacity="0.51"/>
-  <circle cx="436.1" cy="62.3" r="1.2" fill="var(--star-color)" opacity="0.43"/>
-  <circle cx="153.0" cy="102.3" r="1.2" fill="var(--star-color)" opacity="0.32"/>
-  <circle cx="106.6" cy="137.7" r="1.4" fill="var(--star-color)" opacity="0.57"/>
-  <circle cx="43.7" cy="311.8" r="1.4" fill="var(--star-color)" opacity="0.5"/>
-  <circle cx="746.0" cy="297.5" r="1.1" fill="var(--star-color)" opacity="0.45"/>
-  <circle cx="234.9" cy="493.8" r="0.9" fill="var(--star-color)" opacity="0.54"/>
-  <circle cx="134.5" cy="253.4" r="0.8" fill="var(--star-color)" opacity="0.49"/>
-  <circle cx="836.1" cy="223.7" r="1.5" fill="var(--star-color)" opacity="0.5"/>
-  <circle cx="268.6" cy="290.9" r="1.1" fill="var(--star-color)" opacity="0.75"/>
-  <circle cx="817.6" cy="19.6" r="1.0" fill="var(--star-color)" opacity="0.51"/>
-  <circle cx="287.4" cy="169.9" r="0.8" fill="var(--star-color)" opacity="0.56"/>
-  <circle cx="27.4" cy="272.2" r="1.4" fill="var(--star-color)" opacity="0.49"/>
-  <circle cx="534.2" cy="162.9" r="0.8" fill="var(--star-color)" opacity="0.35"/>
-  <circle cx="109.2" cy="20.8" r="0.8" fill="var(--star-color)" opacity="0.38"/>
-  <circle cx="414.4" cy="192.5" r="1.3" fill="var(--star-color)" opacity="0.8"/>
-  <circle cx="157.9" cy="313.6" r="1.4" fill="var(--star-color)" opacity="0.54"/>
-  <circle cx="141.4" cy="171.7" r="1.1" fill="var(--star-color)" opacity="0.53"/>
-  <circle cx="268.0" cy="78.0" r="1.5" fill="var(--star-color)" opacity="0.63"/>
-  <circle cx="398.5" cy="24.2" r="0.8" fill="var(--star-color)" opacity="0.33"/>
-  <circle cx="557.6" cy="422.6" r="0.9" fill="var(--star-color)" opacity="0.39"/>
-  <circle cx="434.8" cy="19.9" r="1.4" fill="var(--star-color)" opacity="0.76"/>
-  <circle cx="635.0" cy="238.5" r="1.2" fill="var(--star-color)" opacity="0.77"/>
-  <circle cx="286.6" cy="88.0" r="0.9" fill="var(--star-color)" opacity="0.72"/>
-  <circle cx="667.2" cy="473.8" r="0.8" fill="var(--star-color)" opacity="0.5"/>
-  <circle cx="184.7" cy="123.2" r="1.1" fill="var(--star-color)" opacity="0.8"/>
-  <circle cx="81.9" cy="118.1" r="1.0" fill="var(--star-color)" opacity="0.78"/>
-  <circle cx="256.9" cy="56.6" r="1.0" fill="var(--star-color)" opacity="0.69"/>
-  <circle cx="656.9" cy="73.8" r="0.7" fill="var(--star-color)" opacity="0.67"/>
-  <circle cx="118.2" cy="128.8" r="0.7" fill="var(--star-color)" opacity="0.33"/>
-  <circle cx="813.5" cy="150.0" r="0.9" fill="var(--star-color)" opacity="0.77"/>
-  <circle cx="375.8" cy="279.8" r="1.3" fill="var(--star-color)" opacity="0.73"/>
-  <circle cx="282.6" cy="275.0" r="0.8" fill="var(--star-color)" opacity="0.55"/>
-  <circle cx="559.9" cy="275.1" r="1.1" fill="var(--star-color)" opacity="0.39"/>
-  <circle cx="509.7" cy="21.1" r="1.2" fill="var(--star-color)" opacity="0.71"/>
-  <circle cx="863.7" cy="176.5" r="1.1" fill="var(--star-color)" opacity="0.43"/>
-  <circle cx="17.1" cy="394.0" r="1.2" fill="var(--star-color)" opacity="0.6"/>
-  <circle cx="325.5" cy="158.5" r="1.1" fill="var(--star-color)" opacity="0.48"/>
+  <circle cx="836.7" cy="407.3" r="1.5" fill="var(--star-color)" opacity="0.58"/>
+  <circle cx="779.1" cy="184.9" r="0.9" fill="var(--star-color)" opacity="0.71"/>
+  <circle cx="197.3" cy="60.1" r="1.4" fill="var(--star-color)" opacity="0.39"/>
+  <circle cx="21.3" cy="299.4" r="0.9" fill="var(--star-color)" opacity="0.68"/>
+  <circle cx="160.7" cy="223.5" r="1.3" fill="var(--star-color)" opacity="0.46"/>
+  <circle cx="239.5" cy="28.0" r="1.4" fill="var(--star-color)" opacity="0.58"/>
+  <circle cx="371.4" cy="293.1" r="1.3" fill="var(--star-color)" opacity="0.44"/>
+  <circle cx="259.5" cy="458.4" r="1.1" fill="var(--star-color)" opacity="0.74"/>
+  <circle cx="636.5" cy="196.7" r="1.1" fill="var(--star-color)" opacity="0.34"/>
+  <circle cx="39.6" cy="272.7" r="0.7" fill="var(--star-color)" opacity="0.58"/>
+  <circle cx="798.4" cy="154.6" r="1.0" fill="var(--star-color)" opacity="0.61"/>
+  <circle cx="755.5" cy="421.0" r="0.8" fill="var(--star-color)" opacity="0.34"/>
+  <circle cx="624.3" cy="377.1" r="0.9" fill="var(--star-color)" opacity="0.62"/>
+  <circle cx="251.6" cy="81.2" r="1.1" fill="var(--star-color)" opacity="0.31"/>
+  <circle cx="625.8" cy="310.1" r="1.3" fill="var(--star-color)" opacity="0.78"/>
+  <circle cx="174.7" cy="341.2" r="0.7" fill="var(--star-color)" opacity="0.34"/>
+  <circle cx="454.8" cy="310.1" r="1.2" fill="var(--star-color)" opacity="0.31"/>
+  <circle cx="259.2" cy="59.3" r="0.7" fill="var(--star-color)" opacity="0.44"/>
+  <circle cx="584.4" cy="102.5" r="1.4" fill="var(--star-color)" opacity="0.48"/>
+  <circle cx="429.8" cy="326.8" r="1.5" fill="var(--star-color)" opacity="0.8"/>
+  <circle cx="157.5" cy="360.6" r="0.9" fill="var(--star-color)" opacity="0.35"/>
+  <circle cx="276.1" cy="124.8" r="1.2" fill="var(--star-color)" opacity="0.55"/>
+  <circle cx="58.4" cy="72.0" r="1.1" fill="var(--star-color)" opacity="0.53"/>
+  <circle cx="44.7" cy="98.7" r="0.8" fill="var(--star-color)" opacity="0.41"/>
+  <circle cx="604.2" cy="330.2" r="0.7" fill="var(--star-color)" opacity="0.45"/>
+  <circle cx="127.6" cy="293.8" r="1.1" fill="var(--star-color)" opacity="0.69"/>
+  <circle cx="549.3" cy="208.5" r="0.9" fill="var(--star-color)" opacity="0.61"/>
+  <circle cx="149.5" cy="178.1" r="1.4" fill="var(--star-color)" opacity="0.7"/>
+  <circle cx="729.1" cy="222.0" r="1.4" fill="var(--star-color)" opacity="0.33"/>
+  <circle cx="444.5" cy="254.7" r="1.2" fill="var(--star-color)" opacity="0.31"/>
+  <circle cx="511.5" cy="153.9" r="1.0" fill="var(--star-color)" opacity="0.6"/>
+  <circle cx="639.5" cy="486.0" r="1.4" fill="var(--star-color)" opacity="0.68"/>
+  <circle cx="584.4" cy="371.7" r="1.1" fill="var(--star-color)" opacity="0.44"/>
+  <circle cx="277.1" cy="362.9" r="1.3" fill="var(--star-color)" opacity="0.38"/>
+  <circle cx="303.8" cy="245.5" r="1.5" fill="var(--star-color)" opacity="0.36"/>
+  <circle cx="43.7" cy="359.1" r="1.0" fill="var(--star-color)" opacity="0.52"/>
+  <circle cx="222.9" cy="84.3" r="0.7" fill="var(--star-color)" opacity="0.43"/>
+  <circle cx="274.1" cy="184.5" r="1.5" fill="var(--star-color)" opacity="0.32"/>
+  <circle cx="437.0" cy="301.1" r="1.4" fill="var(--star-color)" opacity="0.58"/>
+  <circle cx="687.0" cy="58.3" r="1.2" fill="var(--star-color)" opacity="0.53"/>
+  <circle cx="536.7" cy="26.4" r="1.1" fill="var(--star-color)" opacity="0.48"/>
+  <circle cx="675.0" cy="364.4" r="1.0" fill="var(--star-color)" opacity="0.74"/>
+  <circle cx="719.8" cy="109.5" r="1.3" fill="var(--star-color)" opacity="0.49"/>
+  <circle cx="17.4" cy="150.9" r="1.5" fill="var(--star-color)" opacity="0.73"/>
+  <circle cx="532.2" cy="67.3" r="1.2" fill="var(--star-color)" opacity="0.37"/>
+  <circle cx="660.4" cy="369.7" r="0.8" fill="var(--star-color)" opacity="0.32"/>
+  <circle cx="463.5" cy="318.0" r="0.9" fill="var(--star-color)" opacity="0.57"/>
+  <circle cx="698.4" cy="364.2" r="0.8" fill="var(--star-color)" opacity="0.51"/>
+  <circle cx="598.5" cy="20.1" r="0.8" fill="var(--star-color)" opacity="0.51"/>
+  <circle cx="836.7" cy="228.5" r="0.8" fill="var(--star-color)" opacity="0.46"/>
+  <circle cx="696.1" cy="160.5" r="0.8" fill="var(--star-color)" opacity="0.37"/>
+  <circle cx="581.9" cy="376.1" r="1.2" fill="var(--star-color)" opacity="0.36"/>
   <path d="M 110 31 L 111 34 L 114 35 L 111 36 L 110 39 L 109 36 L 106 35 L 109 34 Z" fill="var(--star-color)" opacity="0.6"/>
   <path d="M 440 21 L 441 24 L 444 25 L 441 26 L 440 29 L 439 26 L 436 25 L 439 24 Z" fill="var(--star-color)" opacity="0.6"/>
   <path d="M 780 31 L 781 34 L 784 35 L 781 36 L 780 39 L 779 36 L 776 35 L 779 34 Z" fill="var(--star-color)" opacity="0.6"/>
@@ -166,7 +166,7 @@
       <tspan class="stat-bullet">  •  </tspan>
       <tspan font-weight="400" fill="var(--text-title)">Forks:</tspan> 192
       <tspan class="stat-bullet">  •  </tspan>
-      <tspan font-weight="400" fill="var(--text-title)">Repos:</tspan> 67
+      <tspan font-weight="400" fill="var(--text-title)">Repos:</tspan> 68
       <tspan class="stat-bullet">  •  </tspan>
       <tspan class="loc-add">+644.3k</tspan> <tspan class="loc-del">-148.4k</tspan>
     </text>
@@ -219,7 +219,7 @@
     <rect x="42.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#209887" opacity="0.61"/>
     <rect x="53.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#3c4d89" opacity="0.37"/>
     <rect x="63.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#23898c" opacity="0.57"/>
-    <rect x="74.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#355c8c" opacity="0.42"/>
+    <rect x="74.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#32648c" opacity="0.44"/>
     <rect x="84.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#423b80" opacity="0.32"/>
     <rect x="95.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
     <rect x="105.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
@@ -235,7 +235,7 @@
     <rect x="210.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
     <rect x="221.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#39558b" opacity="0.40"/>
     <rect x="231.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#39558b" opacity="0.40"/>
-    <rect x="242.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#451162" opacity="0.15"/>
+    <rect x="242.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#3c4d89" opacity="0.37"/>
     <rect x="252.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#423b80" opacity="0.32"/>
     <rect x="263.0" y="32.0" width="10.5" height="21.0" rx="0" fill="#3c4d89" opacity="0.37"/>
     <rect x="273.5" y="32.0" width="10.5" height="21.0" rx="0" fill="#3f4485" opacity="0.35"/>
@@ -405,80 +405,80 @@
     <line x1="25" y1="110.0" x2="830" y2="110.0" stroke="var(--grid-color)" stroke-width="1"/>
     <text x="20" y="113.0" class="axis-label" text-anchor="end">0</text>
     <line x1="25" y1="71.0" x2="830" y2="71.0" stroke="var(--grid-color)" stroke-width="1"/>
-    <text x="20" y="74.0" class="axis-label" text-anchor="end">0</text>
+    <text x="20" y="74.0" class="axis-label" text-anchor="end">13</text>
     <line x1="25" y1="32.0" x2="830" y2="32.0" stroke="var(--grid-color)" stroke-width="1"/>
-    <text x="20" y="35.0" class="axis-label" text-anchor="end">1</text>
-    <path d="M 25.0 110.0 C 38.9 110.0, 38.9 110.0, 52.8 110.0 C 66.6 110.0, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 110.0, 108.3 110.0 C 122.2 110.0, 122.2 110.0, 136.0 110.0 C 149.9 110.0, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 110.0, 191.6 110.0 C 205.4 110.0, 205.4 110.0, 219.3 110.0 C 233.2 110.0, 233.2 110.0, 247.1 110.0 C 260.9 110.0, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 110.0, 302.6 110.0 C 316.5 110.0, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 110.0, 358.1 110.0 C 372.0 110.0, 372.0 110.0, 385.9 110.0 C 399.7 110.0, 399.7 110.0, 413.6 110.0 C 427.5 110.0, 427.5 110.0, 441.4 110.0 C 455.3 110.0, 455.3 110.0, 469.1 110.0 C 483.0 110.0, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 110.0, 552.4 110.0 C 566.3 110.0, 566.3 110.0, 580.2 110.0 C 594.1 110.0, 594.1 110.0, 607.9 110.0 C 621.8 110.0, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 110.0, 691.2 110.0 C 705.1 110.0, 705.1 110.0, 719.0 110.0 C 732.8 110.0, 732.8 110.0, 746.7 110.0 C 760.6 110.0, 760.6 110.0, 774.5 110.0 C 788.4 110.0, 788.4 110.0, 802.2 110.0 C 816.1 110.0, 816.1 110.0, 830.0 110.0 L 830.0 110.0 L 25.0 110.0 Z" fill="url(#viridisArea)"/>
-    <path d="M 25.0 110.0 C 38.9 110.0, 38.9 110.0, 52.8 110.0 C 66.6 110.0, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 110.0, 108.3 110.0 C 122.2 110.0, 122.2 110.0, 136.0 110.0 C 149.9 110.0, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 110.0, 191.6 110.0 C 205.4 110.0, 205.4 110.0, 219.3 110.0 C 233.2 110.0, 233.2 110.0, 247.1 110.0 C 260.9 110.0, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 110.0, 302.6 110.0 C 316.5 110.0, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 110.0, 358.1 110.0 C 372.0 110.0, 372.0 110.0, 385.9 110.0 C 399.7 110.0, 399.7 110.0, 413.6 110.0 C 427.5 110.0, 427.5 110.0, 441.4 110.0 C 455.3 110.0, 455.3 110.0, 469.1 110.0 C 483.0 110.0, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 110.0, 552.4 110.0 C 566.3 110.0, 566.3 110.0, 580.2 110.0 C 594.1 110.0, 594.1 110.0, 607.9 110.0 C 621.8 110.0, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 110.0, 691.2 110.0 C 705.1 110.0, 705.1 110.0, 719.0 110.0 C 732.8 110.0, 732.8 110.0, 746.7 110.0 C 760.6 110.0, 760.6 110.0, 774.5 110.0 C 788.4 110.0, 788.4 110.0, 802.2 110.0 C 816.1 110.0, 816.1 110.0, 830.0 110.0" fill="none" stroke="url(#viridisGrad)" stroke-width="1"/>
+    <text x="20" y="35.0" class="axis-label" text-anchor="end">27</text>
+    <path d="M 25.0 110.0 C 38.9 110.0, 38.9 110.0, 52.8 110.0 C 66.6 110.0, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 86.9, 108.3 86.9 C 122.2 86.9, 122.2 89.8, 136.0 89.8 C 149.9 89.8, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 107.1, 191.6 107.1 C 205.4 107.1, 205.4 58.0, 219.3 58.0 C 233.2 58.0, 233.2 86.9, 247.1 86.9 C 260.9 86.9, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 89.8, 302.6 89.8 C 316.5 89.8, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 110.0, 358.1 110.0 C 372.0 110.0, 372.0 110.0, 385.9 110.0 C 399.7 110.0, 399.7 101.3, 413.6 101.3 C 427.5 101.3, 427.5 110.0, 441.4 110.0 C 455.3 110.0, 455.3 104.2, 469.1 104.2 C 483.0 104.2, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 110.0, 552.4 110.0 C 566.3 110.0, 566.3 107.1, 580.2 107.1 C 594.1 107.1, 594.1 110.0, 607.9 110.0 C 621.8 110.0, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 101.3, 691.2 101.3 C 705.1 101.3, 705.1 110.0, 719.0 110.0 C 732.8 110.0, 732.8 107.1, 746.7 107.1 C 760.6 107.1, 760.6 66.7, 774.5 66.7 C 788.4 66.7, 788.4 104.2, 802.2 104.2 C 816.1 104.2, 816.1 32.0, 830.0 32.0 L 830.0 110.0 L 25.0 110.0 Z" fill="url(#viridisArea)"/>
+    <path d="M 25.0 110.0 C 38.9 110.0, 38.9 110.0, 52.8 110.0 C 66.6 110.0, 66.6 110.0, 80.5 110.0 C 94.4 110.0, 94.4 86.9, 108.3 86.9 C 122.2 86.9, 122.2 89.8, 136.0 89.8 C 149.9 89.8, 149.9 110.0, 163.8 110.0 C 177.7 110.0, 177.7 107.1, 191.6 107.1 C 205.4 107.1, 205.4 58.0, 219.3 58.0 C 233.2 58.0, 233.2 86.9, 247.1 86.9 C 260.9 86.9, 260.9 110.0, 274.8 110.0 C 288.7 110.0, 288.7 89.8, 302.6 89.8 C 316.5 89.8, 316.5 110.0, 330.3 110.0 C 344.2 110.0, 344.2 110.0, 358.1 110.0 C 372.0 110.0, 372.0 110.0, 385.9 110.0 C 399.7 110.0, 399.7 101.3, 413.6 101.3 C 427.5 101.3, 427.5 110.0, 441.4 110.0 C 455.3 110.0, 455.3 104.2, 469.1 104.2 C 483.0 104.2, 483.0 110.0, 496.9 110.0 C 510.8 110.0, 510.8 110.0, 524.7 110.0 C 538.5 110.0, 538.5 110.0, 552.4 110.0 C 566.3 110.0, 566.3 107.1, 580.2 107.1 C 594.1 107.1, 594.1 110.0, 607.9 110.0 C 621.8 110.0, 621.8 110.0, 635.7 110.0 C 649.6 110.0, 649.6 110.0, 663.4 110.0 C 677.3 110.0, 677.3 101.3, 691.2 101.3 C 705.1 101.3, 705.1 110.0, 719.0 110.0 C 732.8 110.0, 732.8 107.1, 746.7 107.1 C 760.6 107.1, 760.6 66.7, 774.5 66.7 C 788.4 66.7, 788.4 104.2, 802.2 104.2 C 816.1 104.2, 816.1 32.0, 830.0 32.0" fill="none" stroke="url(#viridisGrad)" stroke-width="1"/>
     <line x1="25.0" y1="110" x2="25.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="25.0" y="129" class="axis-label-small" text-anchor="start">6</text>
+    <text x="25.0" y="129" class="axis-label-small" text-anchor="start">7</text>
     <line x1="52.8" y1="110" x2="52.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="52.8" y="129" class="axis-label-small" text-anchor="middle">7</text>
+    <text x="52.8" y="129" class="axis-label-small" text-anchor="middle">8</text>
     <line x1="80.5" y1="110" x2="80.5" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="80.5" y="129" class="axis-label-small" text-anchor="middle">8</text>
+    <text x="80.5" y="129" class="axis-label-small" text-anchor="middle">9</text>
     <line x1="108.3" y1="110" x2="108.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="108.3" y="129" class="axis-label-small" text-anchor="middle">9</text>
+    <text x="108.3" y="129" class="axis-label-small" text-anchor="middle">10</text>
     <line x1="136.0" y1="110" x2="136.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="136.0" y="129" class="axis-label-small" text-anchor="middle">10</text>
+    <text x="136.0" y="129" class="axis-label-small" text-anchor="middle">11</text>
     <line x1="163.8" y1="110" x2="163.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="163.8" y="129" class="axis-label-small" text-anchor="middle">11</text>
+    <text x="163.8" y="129" class="axis-label-small" text-anchor="middle">12</text>
     <line x1="191.6" y1="110" x2="191.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="191.6" y="129" class="axis-label-small" text-anchor="middle">12</text>
+    <text x="191.6" y="129" class="axis-label-small" text-anchor="middle">13</text>
     <line x1="219.3" y1="110" x2="219.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="219.3" y="129" class="axis-label-small" text-anchor="middle">13</text>
+    <text x="219.3" y="129" class="axis-label-small" text-anchor="middle">14</text>
     <line x1="247.1" y1="110" x2="247.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="247.1" y="129" class="axis-label-small" text-anchor="middle">14</text>
+    <text x="247.1" y="129" class="axis-label-small" text-anchor="middle">15</text>
     <line x1="274.8" y1="110" x2="274.8" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="274.8" y="129" class="axis-label-small" text-anchor="middle">15</text>
+    <text x="274.8" y="129" class="axis-label-small" text-anchor="middle">16</text>
     <line x1="302.6" y1="110" x2="302.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="302.6" y="129" class="axis-label-small" text-anchor="middle">16</text>
+    <text x="302.6" y="129" class="axis-label-small" text-anchor="middle">17</text>
     <line x1="330.3" y1="110" x2="330.3" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="330.3" y="129" class="axis-label-small" text-anchor="middle">17</text>
+    <text x="330.3" y="129" class="axis-label-small" text-anchor="middle">18</text>
     <line x1="358.1" y1="110" x2="358.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="358.1" y="129" class="axis-label-small" text-anchor="middle">18</text>
+    <text x="358.1" y="129" class="axis-label-small" text-anchor="middle">19</text>
     <line x1="385.9" y1="110" x2="385.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="385.9" y="129" class="axis-label-small" text-anchor="middle">19</text>
+    <text x="385.9" y="129" class="axis-label-small" text-anchor="middle">20</text>
     <line x1="413.6" y1="110" x2="413.6" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="413.6" y="129" class="axis-label-small" text-anchor="middle">20</text>
+    <text x="413.6" y="129" class="axis-label-small" text-anchor="middle">21</text>
     <line x1="441.4" y1="110" x2="441.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="441.4" y="129" class="axis-label-small" text-anchor="middle">21</text>
+    <text x="441.4" y="129" class="axis-label-small" text-anchor="middle">22</text>
     <line x1="469.1" y1="110" x2="469.1" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="469.1" y="129" class="axis-label-small" text-anchor="middle">22</text>
+    <text x="469.1" y="129" class="axis-label-small" text-anchor="middle">23</text>
     <line x1="496.9" y1="110" x2="496.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="496.9" y="129" class="axis-label-small" text-anchor="middle">23</text>
+    <text x="496.9" y="129" class="axis-label-small" text-anchor="middle">24</text>
     <line x1="524.7" y1="110" x2="524.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="524.7" y="129" class="axis-label-small" text-anchor="middle">24</text>
+    <text x="524.7" y="129" class="axis-label-small" text-anchor="middle">25</text>
     <line x1="552.4" y1="110" x2="552.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="552.4" y="129" class="axis-label-small" text-anchor="middle">25</text>
+    <text x="552.4" y="129" class="axis-label-small" text-anchor="middle">26</text>
     <line x1="580.2" y1="110" x2="580.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="580.2" y="129" class="axis-label-small" text-anchor="middle">26</text>
+    <text x="580.2" y="129" class="axis-label-small" text-anchor="middle">27</text>
     <line x1="607.9" y1="110" x2="607.9" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="607.9" y="129" class="axis-label-small" text-anchor="middle">27</text>
+    <text x="607.9" y="129" class="axis-label-small" text-anchor="middle">28</text>
     <line x1="635.7" y1="110" x2="635.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="635.7" y="129" class="axis-label-small" text-anchor="middle">28</text>
+    <text x="635.7" y="129" class="axis-label-small" text-anchor="middle">29</text>
     <line x1="663.4" y1="110" x2="663.4" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="663.4" y="129" class="axis-label-small" text-anchor="middle">29</text>
+    <text x="663.4" y="129" class="axis-label-small" text-anchor="middle">30</text>
     <line x1="691.2" y1="110" x2="691.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="691.2" y="129" class="axis-label-small" text-anchor="middle">30</text>
+    <text x="691.2" y="129" class="axis-label-small" text-anchor="middle">31</text>
     <line x1="719.0" y1="110" x2="719.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="719.0" y="129" class="axis-label-small" text-anchor="middle">31</text>
+    <text x="719.0" y="129" class="axis-label-small" text-anchor="middle">1</text>
     <line x1="746.7" y1="110" x2="746.7" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="746.7" y="129" class="axis-label-small" text-anchor="middle">1</text>
+    <text x="746.7" y="129" class="axis-label-small" text-anchor="middle">2</text>
     <line x1="774.5" y1="110" x2="774.5" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="774.5" y="129" class="axis-label-small" text-anchor="middle">2</text>
+    <text x="774.5" y="129" class="axis-label-small" text-anchor="middle">3</text>
     <line x1="802.2" y1="110" x2="802.2" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="802.2" y="129" class="axis-label-small" text-anchor="middle">3</text>
+    <text x="802.2" y="129" class="axis-label-small" text-anchor="middle">4</text>
     <line x1="830.0" y1="110" x2="830.0" y2="113" stroke="var(--text-muted)" stroke-width="1"/>
-    <text x="830.0" y="129" class="axis-label-small" text-anchor="end">4</text>
+    <text x="830.0" y="129" class="axis-label-small" text-anchor="end">5</text>
   </g>
 
   <g transform="translate(30, 440)">
     <text x="0" y="15" class="chart-title">Most used languages</text>
     <rect x="0.0" y="24" width="331.5" height="8" rx="0" fill="#404183"/>
     <rect x="331.5" y="24" width="258.1" height="8" rx="0" fill="#2b738d"/>
-    <rect x="589.7" y="24" width="183.1" height="8" rx="0" fill="#1fa281"/>
-    <rect x="772.8" y="24" width="34.8" height="8" rx="0" fill="#4dc866"/>
-    <rect x="807.5" y="24" width="32.5" height="8" rx="0" fill="#cfe22c"/>
+    <rect x="589.6" y="24" width="183.1" height="8" rx="0" fill="#1fa281"/>
+    <rect x="772.7" y="24" width="34.8" height="8" rx="0" fill="#4dc866"/>
+    <rect x="807.4" y="24" width="32.6" height="8" rx="0" fill="#cfe22c"/>
     <rect x="0" y="40" width="6" height="6" rx="0" fill="#404183"/>
     <text x="10" y="46" class="axis-label-bold">TeX (39%)</text>
     <rect x="135" y="40" width="6" height="6" rx="0" fill="#2b738d"/>
