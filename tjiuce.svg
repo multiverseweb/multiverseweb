@@ -476,9 +476,9 @@
     <text x="0" y="15" class="chart-title">Most used languages</text>
     <rect x="0.0" y="24" width="331.5" height="8" rx="0" fill="#404183"/>
     <rect x="331.5" y="24" width="258.1" height="8" rx="0" fill="#2b738d"/>
-    <rect x="589.6" y="24" width="183.1" height="8" rx="0" fill="#1fa281"/>
-    <rect x="772.7" y="24" width="34.8" height="8" rx="0" fill="#4dc866"/>
-    <rect x="807.4" y="24" width="32.6" height="8" rx="0" fill="#cfe22c"/>
+    <rect x="589.5" y="24" width="183.1" height="8" rx="0" fill="#1fa281"/>
+    <rect x="772.6" y="24" width="34.8" height="8" rx="0" fill="#4dc866"/>
+    <rect x="807.3" y="24" width="32.7" height="8" rx="0" fill="#cfe22c"/>
     <rect x="0" y="40" width="6" height="6" rx="0" fill="#404183"/>
     <text x="10" y="46" class="axis-label-bold">TeX (39%)</text>
     <rect x="135" y="40" width="6" height="6" rx="0" fill="#2b738d"/>

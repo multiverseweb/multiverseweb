@@ -1,6 +1,6 @@
 {
   "username": "tjiuce",
-  "last_updated": "2026-09-05T15:18:22.086428+00:00",
+  "last_updated": "2026-09-05T20:34:44.096564+00:00",
   "version": "1.0",
   "stats": {
     "public_repos": 68,
@@ -14,15 +14,15 @@
     "additions": 644328,
     "deletions": 148421,
     "languages": {
-      "JavaScript": 810744,
-      "CSS": 6426851,
+      "JavaScript": 847205,
+      "CSS": 6694583,
       "Jupyter": 500,
-      "C++": 10588,
-      "Python": 865801,
-      "C": 9032,
-      "TeX": 8254242,
-      "HTML": 4558572,
-      "Jupyter Notebook": 411976
+      "C++": 11030,
+      "Python": 901867,
+      "C": 9402,
+      "TeX": 8598178,
+      "HTML": 4748485,
+      "Jupyter Notebook": 429042
     },
     "daily_commits": [
       0,
@@ -275,23 +275,23 @@
     "top_languages": [
       [
         "TeX",
-        8254242
+        8598178
       ],
       [
         "CSS",
-        6426851
+        6694583
       ],
       [
         "HTML",
-        4558572
+        4748485
       ],
       [
         "Python",
-        865801
+        901867
       ],
       [
         "JavaScript",
-        810744
+        847205
       ]
     ]
   }
