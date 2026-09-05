@@ -1,13 +1,13 @@
 <mark>Recently changed my username; some links may be temporarily broken.</mark>
 <div style="display:flex;"><h1>Hello, I'm <a href="https://tejasgupta.work/">Tejas</a></h1>
 <a href="https://wakatime.com/@ae130591-b326-49e9-ad6d-869b9ac9d27b"><img src="https://wakatime.com/badge/user/ae130591-b326-49e9-ad6d-869b9ac9d27b.svg?style=flat-square" alt="Total time coded since Apr 14 2025" /></a>
-<img src="https://komarev.com/ghpvc/?username=multiverseweb&base=3164&label=🌏%20Total%20Visitors%20%20&color=263759&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=tjiuce&base=3164&label=🌏%20Total%20Visitors%20%20&color=263759&style=flat-square">
 
  <!--<a href="https://leetcode.com/u/tejas-gupta/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejas-gupta&logo=leetcode&logoColor=yellow"/></a>-->
 
 <br>
 
-A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [OpenDots](https://github.com/multiverseweb/OpenDots) and a cross-disciplinary [Rover](https://github.com/multiverseweb/rover) project. I often find ways to use tech to fuel my fascination for space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. 
+A `computer science` major skilled in software development and passionate about open source, with a keen interest in problem solving and real-world application of algorithms. Currently working on an OSS, [OpenDots](https://github.com/tjiuce/OpenDots) and a cross-disciplinary [Rover](https://github.com/tjiuce/rover) project. I often find ways to use tech to fuel my fascination for space science and astrophotography. I also maintain a [space journal](https://www.notion.so/astrotejas/Tejas-Astrophile-97fd4bdfd75d4850bd70fd9eef3809cd) where I document my learnings about the universe. 
 
 Check out more of my work [here](https://tejasgupta.work).
 
@@ -40,7 +40,7 @@ Check out more of my work [here](https://tejasgupta.work).
 
 -->
 
-<img src="https://raw.githubusercontent.com/multiverseweb/multiverseweb/main/multiverseweb.svg?v=1788555301" width="100%" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tjiuce/tjiuce/main/tjiuce.svg?v=1788555301" width="100%" alt="GitHub Stats" />
 
 <!--
 <div align="center">
